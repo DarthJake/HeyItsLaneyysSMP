@@ -1,0 +1,13 @@
+name = "HeyItsLaneyy'sSMP"
+author = "DarthJake"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0cdb71fbb6768febc32e74a4b7de0980e1f68751bdc77da5c2aff35f03ac75d6"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"
