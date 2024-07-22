@@ -1,0 +1,67 @@
+{
+    "name": "The Less Quick Rundown",
+    "icon": "minecraft:clock",
+    "category": "patchouli:main",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "First off, the most important thing of all is that you have fun.$(br2)If that means ignoring all these damn books, throwing them into lava, and just punching a tree, do it."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "However, it might be a good idea to have a general idea of what mods you have access to, and that's what this book is about.$(br2)These will be very short summaries of notable mods in the pack. If something tickles your fancy, most mods have books with aditional information."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Akashic Tome:$()$(br)SO MANY DAM BOOKS!!!! How about we combine them all into one? Use the Akashic Tome! You've got one to start with.$(br2)$(bold)Arcanus:$()$(br)8 different spells to be found scattered in bookshelves throughout the world. Craft the Initiates' wand - find yourself a spell and get slingin'"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Artifacts:$()$(br)Find ancient artifacts very rarely in chests that give you perks or do special things.$(br2)$(bold)Big Beacons:$()$(br)Beacons got a face lift (and platform shoes)! They now get a new effect and more range for every additional pyramid layer you add, up to 9 layers. (A little birdy told me something cool happens if you make 16 layers...)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Bewitchment$()$(br)A spooky mod focused on embracing your inner witch through rituals and pacts. Find some Mandrake root and a book to witch it up!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bewitchment:book_of_shadows"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Create$()$(br)HMMM where to start on this one. For all the techies out there this is your bread and butter, make moving machines and TRAINS to do your bidding. Use the ponder system to learn how!! (hold w on create blocks or click the goggles in the escape menu)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Croptopia$()$(br)Munch munch gobble slurp *BURRRRP*. There's so much food to eat! Take a look at your cookbook and its other versions to get cookin'"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Cooking for Blockheads:$()$(br)Tired of cooking food on your workbench? Use your new 5 piece multiblock kitchen instead! More info in the CfB book.$(br2)$(bold)Dungeons Arise:$()$(br)Explore new dungeons that spawn across the map. They range in size and difficulty. The more dangerous the dungeon, the better the loot."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Emojiful:$()Emojis in Minecraft chat!!!$(br2)$(bold)Extended Drawers:$()$(br)You ever need to store a lot of one item, or show off how many diamonds you have to your friends? Do just that with Extended Drawers!$(br2)$(bold)Extra Alchemy:$()$(br)Adds a large number of potion effects for all of your mad alchemist needs! Refer to the Alchemist's Pamphlet to get brewing...(Pro tip those rings could be useful)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Inmis$()$(br)Betcha didn't guess that this was a backpack mod huh? Well it is - and hopefully it's less broken than last time..........  Look up the recipe's and off you go then! (Make a backpack and put it in your back Trinket Slot then press key bind to use.)$(br2)$(bold)Origins$()$(br)Who am I kidding - we are a little late for this one..... well good luck if you picked a nether start."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Roughly Enough Items (REI)$()$(br)A useful sidebar for looking up recipes and items! If you need help feel free to look up the mods wiki for a full rundown.$(br2)$(bold)SpiceOfFabric$()$(br)Picky eaters beware, the more new foods you try the more your constitution will benefit. There could be a solid market in this......"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Spectrum:$()$(br)This is a magic mod centered around color with an emphasis on exploration and discovery! Rediscover the magic of color! The 'Colorful World' book does not always give you answers, but rather clues so you can figure stuff out on your own."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "spectrum:crafting_table/guidebook"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Trinkets$()$(br)Adds tons of extra equipment slots for all of your new shiny Artifacts and gear... you have those right??$(br2)"
+        }
+    ]
+}

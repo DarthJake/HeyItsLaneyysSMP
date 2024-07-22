@@ -1,0 +1,13 @@
+name = "Megane: Fabric"
+filename = "megane-8.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c01c1239c2298fcd6fbb321b753b6beeb4f63941"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4701158
+project-id = 408118
