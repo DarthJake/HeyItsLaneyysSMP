@@ -1,13 +1,13 @@
 name = "When Dungeons Arise - Fabric!"
-filename = "DungeonsArise-1.19.2-2.1.54-fabric.jar"
+filename = "DungeonsArise-1.19.2-2.1.56-fabric-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb0327234a4a356477e607f4f728f0cd02b3b6c6"
+hash = "b5e3289d69b72910934d64f8c23a35a743776b99"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4263871
+file-id = 4599480
 project-id = 511812
