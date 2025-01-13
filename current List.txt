@@ -1,0 +1,79 @@
+Akashic Tome of Tools Fabric
+Alternate Current
+AppleSkin
+Arcanus: Legacy
+Architectury API (Fabric/Forge/NeoForge)
+Armor Points ++
+Artifacts (Fabric)
+bad packets
+Balm (Fabric Edition)
+Bewitchment
+Big Beacons
+Bookshelf
+Cardinal Components API
+Cloth Config API (Fabric/Forge/NeoForge)
+Clumps
+Collective
+Cooking for Blockheads (Fabric Edition)
+CraftTweaker
+Create Fabric
+Croptopia
+Cull Leaves
+Cupboard
+Dark Loading Screen
+Debugify
+Dynamic FPS
+Emojiful
+Enchantment Descriptions
+Entity Culling Fabric/Forge
+Extended Drawers
+Extra Alchemy
+Extra Origins
+Fabric API
+Fabric Language Kotlin
+Faux Custom Entity Data
+FerriteCore (Fabric)
+Impersonate
+Indium
+Ingredient Extension API
+Inmis
+InmisAddon
+Inventory Sorting
+Krypton
+LazyDFU
+Lithium (Fabric)
+Megane: Fabric
+MemoryLeakFix
+MidnightLib
+Mod Menu
+Mouse Tweaks
+Open Loader
+Origins (Fabric)
+oωo (owo-lib)
+Patchouli (Fabric/Quilt)
+Pehkui
+PlayerAbilityLib
+Reese's Sodium Options
+Revelationary
+Rhino
+Roughly Enough Items Fabric/Forge/NeoForge (REI)
+Roughly Enough Loot Tables
+Roughly Enough Professions (REP)
+Roughly Enough Resources
+Roughly Enough Trades
+Savage Ender Dragon[Forge/Fabric]
+Sodium
+Sodium Extra
+spark
+Spectrum
+Spice of Fabric (Fabric)
+Starlight (Fabric)
+Starter Kit
+Trinkets (Fabric)
+When Dungeons Arise - Fabric!
+WTHIT
+Xaero's Minimap
+Xaero's World Map
+YetAnotherConfigLib
+You're in Grave Danger
+Your Options Shall Be Respected (YOSBR)
