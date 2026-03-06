@@ -249,11 +249,6 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "00cf573cba0077f7fe787eecf22a879894f80e0795fa1cabbfaa87bfaa5c584e"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
 metafile = true
@@ -626,11 +621,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "2e6fb1842744392bac79f92c25c04613af1b82a904a29f7afd0df4f61a4c757e"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
