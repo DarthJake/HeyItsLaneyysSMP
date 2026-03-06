@@ -259,8 +259,8 @@ hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric-legacy.pw.toml"
-hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
+file = "mods/create-enchantment-industry-fabric-(create-6).pw.toml"
+hash = "53256a86d35e72d17ea9990d25a0db8b9a2cd0493811aad8a63eb3e74fe5a3aa"
 metafile = true
 
 [[files]]
@@ -404,6 +404,11 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "4fc3830b9123590bf772489cf93f29678a67a4b58577052785961cede81fe19c"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -509,6 +514,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "5ef4415598aa0f1596686961bfcd3c65761129e7fc49ac8b82c6bd9001d8ed52"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
@@ -574,13 +584,13 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
-file = "mods/not-just-biomes.pw.toml"
-hash = "5a1dc0dd502a51f57539513a87cd1f0d70131a665a8011d01596bf7ef5ae8cf6"
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
 metafile = true
 
 [[files]]
@@ -636,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "ecb1a01ea5e3a971a18633d357c6f165cc05e77ebfd5dfa4f911c3452e0189a3"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
 
 [[files]]
@@ -709,6 +724,11 @@ hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
 metafile = true
 
 [[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "73cac30f967141494fc35b96099b28ad6c65fb2f0abed365136eb3aa0737eb64"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "b29ce0e25ea549e1ee07a7a1dd9f143fcc26c7b180245b6a2e6239d21a3c7930"
 metafile = true
@@ -721,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/uwrad.pw.toml"
+hash = "8e105f55e493d5a1e82d30478f48221ee71e12ef22547515929ad522a1a8e303"
 metafile = true
 
 [[files]]
