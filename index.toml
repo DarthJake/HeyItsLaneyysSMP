@@ -579,6 +579,11 @@ hash = "5a1dc0dd502a51f57539513a87cd1f0d70131a665a8011d01596bf7ef5ae8cf6"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
 metafile = true
@@ -654,6 +659,16 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
@@ -691,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "b29ce0e25ea549e1ee07a7a1dd9f143fcc26c7b180245b6a2e6239d21a3c7930"
 metafile = true
 
 [[files]]
