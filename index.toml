@@ -74,8 +74,18 @@ hash = "099653d91a3d21debc072088c6b887d79007e62b11d8fcc4889b31af903de8a3"
 metafile = true
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "47e11c318c792300c08fb50d217f6965c1734ccf70ab471615ee5c04c790e7a4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
 metafile = true
 
 [[files]]
@@ -234,6 +244,11 @@ hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "05f80197ca27d4d870aad7e48667412eed187c1478346902c9f0578d51662910"
 metafile = true
@@ -241,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric-legacy.pw.toml"
+hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
 metafile = true
 
 [[files]]
@@ -254,13 +274,13 @@ hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
 metafile = true
 
 [[files]]
-file = "mods/create-structures.pw.toml"
-hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
+file = "mods/cull-leaves.pw.toml"
+hash = "0946a740d9e6861df0ec3bc86d261d9fad7bafd591cc17f9f75aaeb954e37b9e"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "0946a740d9e6861df0ec3bc86d261d9fad7bafd591cc17f9f75aaeb954e37b9e"
+file = "mods/cut-through.pw.toml"
+hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
 metafile = true
 
 [[files]]
@@ -681,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
 
 [[files]]
