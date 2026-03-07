@@ -719,11 +719,6 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
 metafile = true
@@ -791,11 +786,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ebc91123261bd6548c350112fa648a1eda47f37a09dbca05a118cf096c9a76c1"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "ce08171df6d0816ffc228cd408ba15cfae26abc0e4dcc975bac6eeaffdfe16dd"
 metafile = true
 
 [[files]]
