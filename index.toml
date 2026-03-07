@@ -294,6 +294,11 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/deeper_dark.pw.toml"
+hash = "5e1bf207d3114f2bb8c38b1d5a2fe2b2933aabb27819b182ed96d2258bcaccab"
+metafile = true
+
+[[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
 metafile = true
@@ -664,6 +669,11 @@ hash = "ecb1a01ea5e3a971a18633d357c6f165cc05e77ebfd5dfa4f911c3452e0189a3"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "62b1365a5252bbe60e6305e9342693daa69cfa818c8eb7b95d6495110ac7c147"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
@@ -696,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "bad699bcd2c76c29b41ef64c812cf90dec0f35040e315b846c8146641d5a0d99"
 metafile = true
 
 [[files]]
@@ -734,6 +749,11 @@ hash = "7d86adc147722e14ad758c05196744505eeee59af072b84e2494780959b66e8e"
 metafile = true
 
 [[files]]
+file = "mods/sync-rereported.pw.toml"
+hash = "02689aaf0b31a4739b509e866372b7e4a89ebbda75bd8adc8355355e9114d133"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
 metafile = true
@@ -761,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/uwrad.pw.toml"
 hash = "8e105f55e493d5a1e82d30478f48221ee71e12ef22547515929ad522a1a8e303"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
 metafile = true
 
 [[files]]
