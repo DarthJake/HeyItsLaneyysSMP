@@ -294,6 +294,16 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators.pw.toml"
+hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
 file = "mods/disable-accessibility-screen.pw.toml"
 hash = "d3cfcc6b6ab7397867dd1e7443b496480ebe399a7db27df617c8a0fc91eb97a6"
 metafile = true
@@ -424,6 +434,11 @@ hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
+file = "mods/hexalia.pw.toml"
+hash = "f20f70edd4a3e76e3f1b576bd715f3c8027dd2fa5682707fb9e914a39a7a9f60"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
@@ -501,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
+metafile = true
+
+[[files]]
+file = "mods/lukis-woodland-mansions.pw.toml"
+hash = "06ac20ff39b8a9ed929de28bdc53bc2a3071a16a5e012b8f94ac5aea57f6cad2"
 metafile = true
 
 [[files]]
