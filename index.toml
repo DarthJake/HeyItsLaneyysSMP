@@ -794,6 +794,11 @@ hash = "ebc91123261bd6548c350112fa648a1eda47f37a09dbca05a118cf096c9a76c1"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "ce08171df6d0816ffc228cd408ba15cfae26abc0e4dcc975bac6eeaffdfe16dd"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
