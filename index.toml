@@ -804,11 +804,6 @@ hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "9e7cdee9170c58f3b1b80297010c2414feafb634a1de9be4b1265d0229a0caeb"
 metafile = true
