@@ -430,22 +430,22 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "d1177a91a7189ca737c3379c705d83fd2cf22240bc95ebc95ffd4dc889dbb565"
+hash = "35ab18fcf7b36ebdbf215567b7790bd27fd63a530d397fd1acf4518d4ee84467"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "1e36368949104f559557e6aa8aa16af838046b03388156ca11b8b8158b8d2385"
+hash = "a416af42f677502cd32f85fbe9318643ffd049a4505bc01f704f3f54f50303ca"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "e86d5503c9f540f4e66ea6b2ddeb0d211f563757cc527d1f5cb88e160cec8803"
+hash = "4a2a408f00945ccae77bcc09af907d2e77b2906a85949856bfe508f3e5919b23"
 metafile = true
 
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
-hash = "7f16a9b51eab87ce3c6ac2997d54153c7feac1ad91c1deb8452987c876f967c0"
+hash = "27ec824f55ce97f140050a29349f964eb1096ab5cc2202e3e2b53801fddbe577"
 metafile = true
 
 [[files]]
