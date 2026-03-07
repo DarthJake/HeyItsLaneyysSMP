@@ -429,6 +429,26 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "d1177a91a7189ca737c3379c705d83fd2cf22240bc95ebc95ffd4dc889dbb565"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "1e36368949104f559557e6aa8aa16af838046b03388156ca11b8b8158b8d2385"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "e86d5503c9f540f4e66ea6b2ddeb0d211f563757cc527d1f5cb88e160cec8803"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "7f16a9b51eab87ce3c6ac2997d54153c7feac1ad91c1deb8452987c876f967c0"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
