@@ -724,11 +724,6 @@ hash = "ecb1a01ea5e3a971a18633d357c6f165cc05e77ebfd5dfa4f911c3452e0189a3"
 metafile = true
 
 [[files]]
-file = "mods/satin-api.pw.toml"
-hash = "1187343aa841668df480b95c643936686c12ba1906edc47e24d92c091d60401b"
-metafile = true
-
-[[files]]
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
@@ -796,11 +791,6 @@ metafile = true
 [[files]]
 file = "mods/symbols-n-stuff.pw.toml"
 hash = "7d86adc147722e14ad758c05196744505eeee59af072b84e2494780959b66e8e"
-metafile = true
-
-[[files]]
-file = "mods/sync-rereported.pw.toml"
-hash = "02689aaf0b31a4739b509e866372b7e4a89ebbda75bd8adc8355355e9114d133"
 metafile = true
 
 [[files]]
