@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/artifacts/common.json5"
-hash = "c406af70fff4dc310fa5bf3733d52a9f2b69677e245f37efc3ef87aec8741d9a"
+hash = "2cf502755c5396afc2db6652f7459dfbb6d6a8bd6784a9bc08882102df7226eb"
 
 [[files]]
 file = "config/better_log4j_config.xml"
