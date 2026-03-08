@@ -214,6 +214,11 @@ hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "d4c8b0fcade7d1dcfc3a90cb41c798d1ba4a08e18f94d70d23d0c5c36b488cb6"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "fd5b977c47d226c54cc7f90bef30138837c64da9c7b67985b5fc2dcaaeec0ce1"
 metafile = true
@@ -369,6 +374,11 @@ hash = "f0eaa999dd81ab6add37ed9efeee273d42efa985e3a07bd9503f9536ebdc0e6b"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
 metafile = true
@@ -451,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "196988222658fc8f718be52916a302991e683970197344922cae053fd4975e14"
 metafile = true
 
 [[files]]
@@ -646,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "1dbd3b2969118cf3bf47efd9eac2838abb815efce4d33ea47091f20b42ebfd24"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "416b46fc5c69d7ca02932d2723c1240e6a6148b1dcca0e8e0be094ab6c156b5d"
 metafile = true
 
 [[files]]
