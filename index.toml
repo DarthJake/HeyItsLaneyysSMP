@@ -18,7 +18,7 @@ hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "3b83368ca4156b17fd6d5faa9fadbc12f20403c27fbf49ccb681c5d55d17c5d7"
+hash = "38e472f16973c32f4453e827b0b2f425bd6cb0c4f2544aae0a0fd7a9ad82ccf6"
 
 [[files]]
 file = "config/lithium.properties"
