@@ -26,7 +26,7 @@ hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
 [[files]]
 file = "config/mindfuldarkness-client.toml"
-hash = "42f81f9a0316607fe43cdc83250d5819a916f27310d340dd14c3a005ba6b65f1"
+hash = "aaf5dc50b423453800a135c8208fd44dcf046cc8f6626c84f75f228a3acc2ba4"
 
 [[files]]
 file = "config/origins_server.json"
