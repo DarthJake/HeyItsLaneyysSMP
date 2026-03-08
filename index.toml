@@ -241,11 +241,6 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "06fb23d97433503d6c298cb0cc6accba342b68350ea644793193ab10360b724f"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
 metafile = true
@@ -293,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/dragonfightfix.pw.toml"
 hash = "87202b0293b6b2b9c67f010456127902c69c33b52b91b6fd7727ef889d6afa5f"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "a9ea06f32211cc64ee027896cc08840f2a5426a55e98c9e687975b6a55c99b0d"
 metafile = true
 
 [[files]]
