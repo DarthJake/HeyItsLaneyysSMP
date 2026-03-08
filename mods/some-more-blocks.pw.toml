@@ -1,0 +1,13 @@
+name = "Some More Blocks"
+filename = "SomeMoreBlocks@fabric-1.20.1-1.0.7-bp.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1LxuhQe/versions/dUBsZPUA/SomeMoreBlocks%40fabric-1.20.1-1.0.7-bp.jar"
+hash-format = "sha512"
+hash = "164a55a7af02880cf8bd7a7095de47499b51074a7ed822fab9517d7ec52d481ddd5049c7bc537a37cd569bd03d6289685eced9ab6362ff693267dd732625eb83"
+
+[update]
+[update.modrinth]
+mod-id = "R1LxuhQe"
+version = "dUBsZPUA"

@@ -244,11 +244,6 @@ hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "05f80197ca27d4d870aad7e48667412eed187c1478346902c9f0578d51662910"
 metafile = true
@@ -716,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/some-more-blocks.pw.toml"
+hash = "173e2bbc72e8f0ba93e70f6fdb9c676100fc7ab961e9b9522f69ae2666ae24f5"
 metafile = true
 
 [[files]]
