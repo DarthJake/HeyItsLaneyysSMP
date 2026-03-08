@@ -25,6 +25,10 @@ file = "config/lithium.properties"
 hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
 [[files]]
+file = "config/mindfuldarkness-client.toml"
+hash = "42f81f9a0316607fe43cdc83250d5819a916f27310d340dd14c3a005ba6b65f1"
+
+[[files]]
 file = "config/origins_server.json"
 hash = "7c02d921c382d2e35c3562dff6eaba0b7756bf6e793f9fe24236a7ca1ec59109"
 
