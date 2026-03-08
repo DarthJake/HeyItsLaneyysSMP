@@ -1,36 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Spectrum.json5"
-hash = "51ec9dc7c95e2bb4a8f3e37270306f496c0b30ec475227dae3089f6fc3a74a98"
-
-[[files]]
-file = "config/akashic_tome.json5"
-hash = "c8d20fd818712ef5565400eea7d31bc24e961edbfc31e3a403c098cd2db4befc"
-
-[[files]]
-file = "config/armorpointspp.json5"
-hash = "589e84c99e1b8868fbe85e7119720ccd560727ea61222d0cf927a98028032bea"
-
-[[files]]
-file = "config/artifacts/worldgen.toml"
-hash = "d5a518c4b5bceb130e0518d75b06742c5de4bb113027793b88fb667ba90f1cbd"
+file = "config/artifacts/common.json5"
+hash = "bd1610e6a6279448c0e3789f7c548c22da74516e3efce96c853a390bff0d352b"
 
 [[files]]
 file = "config/better_log4j_config.xml"
 hash = "0d4b02adbdfc1eebc2c5019a86ecc4d29f061fb3ad1693ca56d9674a116038c8"
 
 [[files]]
-file = "config/dragonfight.json"
-hash = "1fef2b0387e0193bd8b32fbece9ea0f2f8d8e651c7b7d24c2d9779f3edc0ee9e"
+file = "config/botania-common.json5"
+hash = "c58462b9068f77994b4caf6b316f438542d39fe4050b810bd46b61e54f452268"
 
 [[files]]
-file = "config/extended_drawers/common.properties"
-hash = "e257e91242892eeed168188aa329241cbbaedf000c72915fe8076cffa4230c5c"
+file = "config/dimdoors-config.json5"
+hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
 [[files]]
-file = "config/inmis.json"
-hash = "23ff6b40c1bd73a366b1f88f8663f5f4fab5c9799496e80067efa037519173bf"
+file = "config/fwaystones/config.json5"
+hash = "3b83368ca4156b17fd6d5faa9fadbc12f20403c27fbf49ccb681c5d55d17c5d7"
 
 [[files]]
 file = "config/lithium.properties"
@@ -38,31 +26,15 @@ hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "2e0e6a528261cc839f81a37d0272031bcb34e1cae76dc01a14bd3b6e428426ee"
+hash = "7c02d921c382d2e35c3562dff6eaba0b7756bf6e793f9fe24236a7ca1ec59109"
 
 [[files]]
-file = "config/spiceoffabric.hjson"
-hash = "edaf1e536b04c6f60676272258d0a5d1f747ec7c8dd01a13e3409198c66d04ed"
+file = "config/sidebar_buttons.json"
+hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
 [[files]]
-file = "config/starterkit/starterkit.txt"
-hash = "019ddabd6e457c32f53b28eb4e0d7f93a8d22dec735d74ec4d97d75bd84a26dd"
-
-[[files]]
-file = "config/textile_backup.json5"
-hash = "424fcd2df75f658cabd4f19cf9b7a23f175499c5a8d9a11c77537f0f76698c40"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "605f9badbfc70831d114382e8f19a814f41706840a310b4616d3eb98bbfa6844"
-
-[[files]]
-file = "config/yigd.toml"
-hash = "d1e5260517298134ea27a4d85e3a4378ec5207172ee027854586afda0b1ba7e4"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/tide.json"
+hash = "c6f040e20ea3101eb9615613fc86b9e21a740909e075279f1aea6fdb8c9fe728"
 
 [[files]]
 file = "current List.txt"
@@ -776,16 +748,6 @@ metafile = true
 [[files]]
 file = "mods/some-more-blocks.pw.toml"
 hash = "173e2bbc72e8f0ba93e70f6fdb9c676100fc7ab961e9b9522f69ae2666ae24f5"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
-hash = "bad699bcd2c76c29b41ef64c812cf90dec0f35040e315b846c8146641d5a0d99"
 metafile = true
 
 [[files]]
