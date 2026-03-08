@@ -50,6 +50,16 @@ hash = "099653d91a3d21debc072088c6b887d79007e62b11d8fcc4889b31af903de8a3"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "448122a913a9588559026b8974a9d1cf75996fbf637c716ab2535b8ccf461cb5"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "47e11c318c792300c08fb50d217f6965c1734ccf70ab471615ee5c04c790e7a4"
 metafile = true
@@ -730,6 +740,11 @@ hash = "2e6fb1842744392bac79f92c25c04613af1b82a904a29f7afd0df4f61a4c757e"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "3b77e033aca4b8fc2e400a70a28576a63a8fc04ffd16808e4fdce10f102641af"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -802,11 +817,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ebc91123261bd6548c350112fa648a1eda47f37a09dbca05a118cf096c9a76c1"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
