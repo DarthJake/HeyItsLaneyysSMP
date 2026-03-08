@@ -324,6 +324,11 @@ hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
@@ -454,6 +459,11 @@ hash = "dd81d96762873b6bd86e2074974b80a2a70163e432246ebf4dee10bf028d2134"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "3251cbd6f9d698f979aa5db8ad95bedb3d39b4deb41ec18ab91635b650d977db"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
@@ -519,6 +529,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
@@ -546,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "65af8adf11070a823ab36edde42d4d9f9069061b51275da17cc0bc7b721d5a81"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "61d044ff79ee9910cb74012892108918c337057147b431733715d2b7444368b5"
 metafile = true
 
 [[files]]
@@ -654,6 +674,11 @@ hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
 metafile = true
@@ -696,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
