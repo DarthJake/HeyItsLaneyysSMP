@@ -96,11 +96,6 @@ hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
 
 [[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "47e11c318c792300c08fb50d217f6965c1734ccf70ab471615ee5c04c790e7a4"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
