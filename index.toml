@@ -964,7 +964,7 @@ hash = "27a543d4c1085da8bd650afea4050e8dfd4eaa02d987f566a4fa4815e6f4c133"
 
 [[files]]
 file = "scripts/customCreate.zs"
-hash = "7a12c5a182919e3abe61ab630754433a67fc55019a0803fbead819aa1239c47b"
+hash = "3cdf9a77ae0cc76f3b44ce98fd20228c80afa335e06bfd8c74f4d5d8b458a9b6"
 
 [[files]]
 file = "scripts/dimDoors.zs"
