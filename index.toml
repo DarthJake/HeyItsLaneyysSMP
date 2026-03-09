@@ -22,7 +22,7 @@ hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "38e472f16973c32f4453e827b0b2f425bd6cb0c4f2544aae0a0fd7a9ad82ccf6"
+hash = "64770e3e8ee8045d16818a3e3f8d6dd94e813d1fc646fc3cb8fbb47c3644c558"
 
 [[files]]
 file = "config/lithium.properties"
@@ -47,6 +47,38 @@ hash = "c6f040e20ea3101eb9615613fc86b9e21a740909e075279f1aea6fdb8c9fe728"
 [[files]]
 file = "current List.txt"
 hash = "dbda1044d52c869764cbb2c584ab9dfb6449325d77de219546e418e840636491"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dimensional_key.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "ec3c8c622614831d6fe1ee188274871405536766af330121b203bf5e2deba6f6"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4b938cfd1ffd7a1dd08efad1c3c5c4f4345787c9108cf847f2fb9731fd265baf"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/dimensional_key.js"
+hash = "bbbb6b0237161782a79dc31f6804a01dcd973e28e114e7c4b55c626411113b76"
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -929,6 +961,10 @@ hash = "5d081b3439eba32f955fbd8340fac3a3da50a2bb28a663f0a3bf60446ef19185"
 [[files]]
 file = "patchouli_books/the_quick_rundown/en_us/entries/main/the_quick_rundown.json"
 hash = "27a543d4c1085da8bd650afea4050e8dfd4eaa02d987f566a4fa4815e6f4c133"
+
+[[files]]
+file = "scripts/dimDoors.zs"
+hash = "20d3ea0a5f376520741a812a970528c0b456605605622441dfbe35fa7b0453bc"
 
 [[files]]
 file = "scripts/miscRecipies.zs"
