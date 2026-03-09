@@ -963,6 +963,10 @@ file = "patchouli_books/the_quick_rundown/en_us/entries/main/the_quick_rundown.j
 hash = "27a543d4c1085da8bd650afea4050e8dfd4eaa02d987f566a4fa4815e6f4c133"
 
 [[files]]
+file = "scripts/customCreate.zs"
+hash = "7a12c5a182919e3abe61ab630754433a67fc55019a0803fbead819aa1239c47b"
+
+[[files]]
 file = "scripts/dimDoors.zs"
 hash = "20d3ea0a5f376520741a812a970528c0b456605605622441dfbe35fa7b0453bc"
 
