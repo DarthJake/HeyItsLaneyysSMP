@@ -5,6 +5,10 @@ file = "config/accessories.json5"
 hash = "736145a5c31b0735260c3fa544d1f4803da3b0ee3b5daacb7792b64e25fcbca9"
 
 [[files]]
+file = "config/arcanuscontinuum.jsonc"
+hash = "9e6ab07b7151bb57048a7d9a0fd430d7cb5dd6a432e001e7e21b7f07269ea73d"
+
+[[files]]
 file = "config/artifacts/common.json5"
 hash = "2cf502755c5396afc2db6652f7459dfbb6d6a8bd6784a9bc08882102df7226eb"
 
