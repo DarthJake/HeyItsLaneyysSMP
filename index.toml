@@ -346,6 +346,16 @@ hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
@@ -848,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/uwrad.pw.toml"
 hash = "8e105f55e493d5a1e82d30478f48221ee71e12ef22547515929ad522a1a8e303"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "a9b241cbbff036293ceb73c9fac0f58c2b1d60cefb2aed0212fc936556a16df8"
 metafile = true
 
 [[files]]
