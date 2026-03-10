@@ -858,6 +858,11 @@ hash = "c76cc469b3c50822c3b059280d8fd58c085f00460799f27c94b242c6da624bb9"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "162fb59287ed2a6984b217f782a28e9f8f02daec88af0d37deea9165f70354d0"
+metafile = true
+
+[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "c28bc347e2c37caaf4ce0da6318f235bac53760dd9f5a2e6a558cbcd9a64f9c6"
 metafile = true
