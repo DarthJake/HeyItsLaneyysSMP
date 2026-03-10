@@ -959,7 +959,7 @@ hash = "27a543d4c1085da8bd650afea4050e8dfd4eaa02d987f566a4fa4815e6f4c133"
 
 [[files]]
 file = "scripts/botania.zs"
-hash = "0e930ae1d8cdecf693be009169a8bc62a66751412faf2d9bf6fcaef2f7a3bfc6"
+hash = "7396c2be38934732455bf67249ebce2fa2a7c9d19c0f064ee76bac70fca699b8"
 
 [[files]]
 file = "scripts/custom.zs"
