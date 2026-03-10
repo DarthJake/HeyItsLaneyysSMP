@@ -316,8 +316,8 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
-file = "mods/deeper_dark.pw.toml"
-hash = "5e1bf207d3114f2bb8c38b1d5a2fe2b2933aabb27819b182ed96d2258bcaccab"
+file = "mods/deeperdarker.pw.toml"
+hash = "e97b4a2e3dd458ececbb0300c606e9692590bc1d4da6c9c83a38f9e3f3276393"
 metafile = true
 
 [[files]]
