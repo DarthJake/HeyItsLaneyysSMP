@@ -25,6 +25,14 @@ file = "config/fwaystones/config.json5"
 hash = "64770e3e8ee8045d16818a3e3f8d6dd94e813d1fc646fc3cb8fbb47c3644c558"
 
 [[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "c7eaa253264c4d10af5134b9ecfeb15ca68492bd85d81fedbeb3b66193f83b09"
+
+[[files]]
+file = "config/inventorysorter/config.json5"
+hash = "e35205904ff1350a20dd10368897e83e1219e64b5fc8b67197ca1702f695e328"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
@@ -978,7 +986,7 @@ hash = "7396c2be38934732455bf67249ebce2fa2a7c9d19c0f064ee76bac70fca699b8"
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "6b7299cb97fbf2e745558841c4bb78f48f5f8d3f1560591e5cb8e1cc11f19ea2"
+hash = "1c3a8e381ccd89d1519787c2900021c603cf3a222561e34ecc18f16f5901af1e"
 
 [[files]]
 file = "scripts/customCreate.zs"
@@ -986,7 +994,7 @@ hash = "4ac0eeaaf061a17ece18d450b736ed98d272c4f5c4d43782bc6186959de8c4b0"
 
 [[files]]
 file = "scripts/dimDoors.zs"
-hash = "b5d8d0470373172272bd8f9ae7998e5dfbadaa1096fd3e86849a6206072499be"
+hash = "fd26f70ebadee58572d97c9e0f549bd93e2095a0932a3aeac85762163024767c"
 
 [[files]]
 file = "scripts/fwaystones.zs"

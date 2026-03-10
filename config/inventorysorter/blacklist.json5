@@ -1,0 +1,8 @@
+{
+	// URL for blacklist to be downloaded from
+	"blacklistDownloadURL": "https://raw.githubusercontent.com/kyrptonaught/Inventory-Sorter/1.19/DownloadableBlacklist.json5",
+	// The opened inventory's sort button will not be visible, only the player's when this inventory is opened
+	"doNotSortList": ["Cookingforblockheads:oven", "Spectrum:heartbound_chest", "Spectrum:compacting_chest", "Spectrum:restocking_chest", "Spectrum:potion_workshop"],
+	// Neither the opened inventory, nor your player inventory will be sortable when this inventory is opened
+	"hideSortBtnsList": ["Arcanuscontinuum:spellcraft_screen_handler", "Arcanuscontinuum:arcane_workbench_screen_handler", "Fwaystones:waystone", "Cookingforblockheads:cooking_table", "Fwaystones:pocket_wormhole"]
+}
