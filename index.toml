@@ -53,6 +53,10 @@ file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
 [[files]]
+file = "config/simplehats/common.toml"
+hash = "1179621a768252dafe9f9a29e65c6d781999ef7c027447bcfd4e52c1fb95939d"
+
+[[files]]
 file = "config/tide.json"
 hash = "c6f040e20ea3101eb9615613fc86b9e21a740909e075279f1aea6fdb8c9fe728"
 
