@@ -13,3 +13,12 @@ import mods.create.CrushingManager;
     [<item:dimdoors:world_thread> % 5, (<item:dimdoors:frayed_filament> * 1) % 0.01],
     <item:dimdoors:unravelled_fabric>,
     200);
+
+// Disenchanter tweak
+recipes.remove(<item:create_enchantment_industry:disenchanter>);
+craftingTable.addShaped("new_disenchanter", <item:create_enchantment_industry:disenchanter>, [
+        [<" ">, <item:create:sand_paper>, <" ">],
+        [<item:minecraft:copper_ingot>, <item:create:copper_casing>, <item:minecraft:copper_ingot>],
+        [<item:minecraft:obsidian>, <item:create:fluid_tank>, <item:minecraft:obsidian>]
+    ]
+);
