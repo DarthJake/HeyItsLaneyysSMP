@@ -253,6 +253,11 @@ hash = "1001909e9b113e2976ae248072709906cca90ac098af00cdd967453d45fba851"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "8d2e29579e022c0eb9d2ba081e610d089375d801563d582cedbd5caefde0c372"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -450,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
 metafile = true
 
 [[files]]
@@ -693,6 +703,11 @@ hash = "60dd0c8cd8ee5c017041e5d15106aa1cb96fad82ac6ddd1a297d8d7d4fe4e2dd"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b530cc17433874626d136de7127d2cf9f550085269fca24f8d0251c8a18a41c5"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
@@ -705,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "3b0b356d704fc3de8436a33097f20ef542eb6396c66230f1f142c5f0a25ed90c"
 metafile = true
 
 [[files]]
@@ -798,6 +818,11 @@ hash = "ecb1a01ea5e3a971a18633d357c6f165cc05e77ebfd5dfa4f911c3452e0189a3"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
@@ -810,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "2e6fb1842744392bac79f92c25c04613af1b82a904a29f7afd0df4f61a4c757e"
+metafile = true
+
+[[files]]
+file = "mods/silents-delight.pw.toml"
+hash = "9553d654195bca5662da654ed84b294a6ad61eac5e28b236c260e80f78efe3ef"
 metafile = true
 
 [[files]]
