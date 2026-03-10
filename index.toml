@@ -73,6 +73,10 @@ file = "config/tide.json"
 hash = "c6f040e20ea3101eb9615613fc86b9e21a740909e075279f1aea6fdb8c9fe728"
 
 [[files]]
+file = "config/visualworkbench-client.toml"
+hash = "7323d935e67644b0b13fda65a59be54481b282c15b29cb5f41be000f62643727"
+
+[[files]]
 file = "current List.txt"
 hash = "dbda1044d52c869764cbb2c584ab9dfb6449325d77de219546e418e840636491"
 
