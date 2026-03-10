@@ -49,12 +49,12 @@ craftingTable.addShaped("new_reality_sponge", <item:dimdoors:reality_sponge>, [
 );
 
 // Rift Blade 
-recipes.remove(<item:dimdoors:reality_sponge>);
-craftingTable.addShaped("new_reality_sponge", <item:dimdoors:reality_sponge>, [
+recipes.remove(<item:dimdoors:rift_blade>);
+craftingTable.addShaped("new_rift_blade", <item:dimdoors:rift_blade>, [
         [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
         [<item:dimdoors:stable_fabric>, <item:minecraft:iron_sword>, <item:dimdoors:stable_fabric>],
         [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
-		]
+        ]
 );
 
 // Dimensional Gold Door
