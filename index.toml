@@ -33,6 +33,10 @@ file = "config/easyanvils-server.toml"
 hash = "56505bde5ecca1c2f1173b25b04ebc798354ea070d015ab80d9dbb6dea49bb83"
 
 [[files]]
+file = "config/emi.css"
+hash = "d33bbd7704c6591123173397e8adcdfa162328809d8d5fe94afa5164437821c4"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "64770e3e8ee8045d16818a3e3f8d6dd94e813d1fc646fc3cb8fbb47c3644c558"
 
