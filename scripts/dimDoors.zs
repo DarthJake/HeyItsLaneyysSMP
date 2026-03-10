@@ -6,9 +6,9 @@ import crafttweaker.api.loot.modifier.CommonLootModifiers;
 // Oak Dimensional Door 
 recipes.remove(<item:dimdoors:item_ag_dim_minecraft_oak_door>);
 craftingTable.addShaped("new_oak_dimensional_door", <item:dimdoors:item_ag_dim_minecraft_oak_door>, [
-        [<" ">, <" ">, <" ">],
+        [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
         [<item:minecraft:oak_door>, <item:fwaystones:abyss_watcher>, <item:minecraft:oak_door>],
-        [<" ">, <" ">, <" ">]
+        [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
     ]
 );
 
@@ -33,9 +33,9 @@ craftingTable.addShaped("new_quartz_dimensional_door", <item:dimdoors:item_ag_di
 // Stone Dimensional Door 
 recipes.remove(<item:dimdoors:item_ag_dim_dimdoors_stone_door>);
 craftingTable.addShaped("new_stone_dimensional_door", <item:dimdoors:item_ag_dim_dimdoors_stone_door>, [
-        [<item:dimdoors:world_thread>, <" ">, <item:dimdoors:world_thread>],
+        [<item:dimdoors:world_thread>, <item:minecraft:air>, <item:dimdoors:world_thread>],
         [<item:dimdoors:stone_door>, <item:kubejs:dimensional_key>, <item:dimdoors:stone_door>],
-        [<" ">, <item:fwaystones:abyss_watcher>, <" ">]
+        [<item:minecraft:air>, <item:fwaystones:abyss_watcher>, <item:minecraft:air>]
 		]
 );
 
@@ -51,9 +51,9 @@ craftingTable.addShaped("new_reality_sponge", <item:dimdoors:reality_sponge>, [
 // Rift Blade 
 recipes.remove(<item:dimdoors:reality_sponge>);
 craftingTable.addShaped("new_reality_sponge", <item:dimdoors:reality_sponge>, [
-        [<" ">, <" ">, <" ">],
+        [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
         [<item:dimdoors:stable_fabric>, <item:minecraft:iron_sword>, <item:dimdoors:stable_fabric>],
-        [<" ">, <" ">, <" ">]
+        [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
 		]
 );
 

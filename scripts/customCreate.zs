@@ -17,7 +17,7 @@ import mods.create.CrushingManager;
 // Disenchanter tweak
 recipes.remove(<item:create_enchantment_industry:disenchanter>);
 craftingTable.addShaped("new_disenchanter", <item:create_enchantment_industry:disenchanter>, [
-        [<" ">, <item:create:sand_paper>, <" ">],
+        [<item:minecraft:air>, <item:create:sand_paper>, <item:minecraft:air>],
         [<item:minecraft:copper_ingot>, <item:create:copper_casing>, <item:minecraft:copper_ingot>],
         [<item:minecraft:obsidian>, <item:create:fluid_tank>, <item:minecraft:obsidian>]
     ]

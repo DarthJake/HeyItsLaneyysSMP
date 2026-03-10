@@ -978,19 +978,19 @@ hash = "7396c2be38934732455bf67249ebce2fa2a7c9d19c0f064ee76bac70fca699b8"
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "ea420d7c35d5a48ac48389ea24d464e0ac02e12750e9a0a1ba4a3ff9a9480bdd"
+hash = "6b7299cb97fbf2e745558841c4bb78f48f5f8d3f1560591e5cb8e1cc11f19ea2"
 
 [[files]]
 file = "scripts/customCreate.zs"
-hash = "972dd748f67e862ac0b765f5c8e298d3e392e421742752c89eadeee94da3ab21"
+hash = "4ac0eeaaf061a17ece18d450b736ed98d272c4f5c4d43782bc6186959de8c4b0"
 
 [[files]]
 file = "scripts/dimDoors.zs"
-hash = "bff6c188f5626c050f51506800e00a1fe6324d4f3e6b5b474b84032bc0921953"
+hash = "b5d8d0470373172272bd8f9ae7998e5dfbadaa1096fd3e86849a6206072499be"
 
 [[files]]
 file = "scripts/fwaystones.zs"
-hash = "f1dd0be4afdfa115d2a41ad1853ad081bc3417e3ee4d629bf48e2d766a7d933c"
+hash = "0c2e77e75fb8d00c0474a970080cf4c1f640aa39a2205984fb74308bbfc3928b"
 
 [[files]]
 file = "scripts/miscRecipies.zs"
