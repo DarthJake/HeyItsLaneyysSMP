@@ -25,6 +25,14 @@ file = "config/dimdoors-config.json5"
 hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
 [[files]]
+file = "config/easyanvils-client.toml"
+hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "56505bde5ecca1c2f1173b25b04ebc798354ea070d015ab80d9dbb6dea49bb83"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "64770e3e8ee8045d16818a3e3f8d6dd94e813d1fc646fc3cb8fbb47c3644c558"
 
