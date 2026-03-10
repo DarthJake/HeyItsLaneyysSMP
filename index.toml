@@ -985,6 +985,10 @@ hash = "a55e6247a74bb3e5e13358f60918c06eeede47832602925c174b1a1511daec07"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "b86dc0d210db871337c34586c32f1fe9f3cf9a25995ce2c5546d6eed45a342f7"
+
+[[files]]
 file = "patchouli_books/the_quick_rundown/book.json"
 hash = "5123403f47e5dc0adf73c00cfd630e44c0b5c404ccdf1b5c1f0380f5e56e9463"
 
