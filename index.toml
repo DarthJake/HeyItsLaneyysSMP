@@ -677,11 +677,6 @@ hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
 
 [[files]]
-file = "mods/luckyblocks.pw.toml"
-hash = "161f64545eabc8e0cfb7421af33a330b3e613504d083e8a627490dd473924add"
-metafile = true
-
-[[files]]
 file = "mods/lukis-woodland-mansions.pw.toml"
 hash = "06ac20ff39b8a9ed929de28bdc53bc2a3071a16a5e012b8f94ac5aea57f6cad2"
 metafile = true
