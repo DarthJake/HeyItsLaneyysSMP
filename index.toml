@@ -172,6 +172,11 @@ hash = "a27f4a18768275558854f81c37588195a1d5648991efd223e11f62343d69975a"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "6954afeb8bcf18a71cf02dad3ce414cae8940876602fc1239696b9282a554618"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
 metafile = true
@@ -194,6 +199,16 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "f060633ec58d2c5498c963d00de015e3946ee8a1bc1043f7bc4782ddcf44051f"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-for-betterend.pw.toml"
+hash = "79fca9aa713e5005bab45afc489ee57302726de6a7aaf18ed50325540525776f"
 metafile = true
 
 [[files]]
@@ -259,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "8d2e29579e022c0eb9d2ba081e610d089375d801563d582cedbd5caefde0c372"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "59d74acf0465432b8c3b68116064ddcef7ceb54e7bca10871215f24d8ddc4c9c"
 metafile = true
 
 [[files]]
@@ -592,6 +612,11 @@ hash = "b5661c408bd1b00cdfff31a4e02133d09c6da01bc47bec347313be4f614b269b"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -649,6 +674,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
+metafile = true
+
+[[files]]
+file = "mods/luckyblocks.pw.toml"
+hash = "161f64545eabc8e0cfb7421af33a330b3e613504d083e8a627490dd473924add"
 metafile = true
 
 [[files]]
@@ -837,6 +867,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "fa732831c626efd3ae14536db3eef7d6abf7b0ed04f9a80a7ded6a24ac6c3a82"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "2e6fb1842744392bac79f92c25c04613af1b82a904a29f7afd0df4f61a4c757e"
 metafile = true
@@ -902,6 +937,16 @@ hash = "c28bc347e2c37caaf4ce0da6318f235bac53760dd9f5a2e6a558cbcd9a64f9c6"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8493921323387a14ce5c0ecfd052ca0bdd177f4c160ca77f672cc1170b64f97e"
+metafile = true
+
+[[files]]
 file = "mods/symbols-n-stuff.pw.toml"
 hash = "7d86adc147722e14ad758c05196744505eeee59af072b84e2494780959b66e8e"
 metafile = true
@@ -919,6 +964,11 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "b29ce0e25ea549e1ee07a7a1dd9f143fcc26c7b180245b6a2e6239d21a3c7930"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
 metafile = true
 
 [[files]]
@@ -949,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "419eef46a9dcaa8e79c830d7f146e5c4cabe52e10a6f12011a7302557a51924f"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
 metafile = true
 
 [[files]]
