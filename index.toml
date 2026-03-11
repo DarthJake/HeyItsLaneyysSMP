@@ -1012,11 +1012,6 @@ hash = "419eef46a9dcaa8e79c830d7f146e5c4cabe52e10a6f12011a7302557a51924f"
 metafile = true
 
 [[files]]
-file = "mods/wits.pw.toml"
-hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
-metafile = true
-
-[[files]]
 file = "mods/xaero-zoomout.pw.toml"
 hash = "c2245de8394ba365e9b188242f2219a31aa1f3360a87f18793181a82a3ca4d00"
 metafile = true
