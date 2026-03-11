@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-end-cities-for-betterend.pw.toml"
-hash = "79fca9aa713e5005bab45afc489ee57302726de6a7aaf18ed50325540525776f"
+hash = "0882839a5ca890164e26948ad8dc6e3aef3e15132d0c357d63ac28e0128b1a12"
 metafile = true
 
 [[files]]
@@ -543,12 +543,12 @@ metafile = true
 
 [[files]]
 file = "mods/formations-nether.pw.toml"
-hash = "0afffd423f22bb5e19129f3cd9183031f1c65b39bbeb68314ea621a42d8514e0"
+hash = "795f530b4ccfefeb9d3235314d7ddf8bef48aa39f757f542dd66685fea53ad96"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
+hash = "c2dbc6e1955272812b6a17f58eb60c2587399295cf39b62eb43ff52138202238"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "61d044ff79ee9910cb74012892108918c337057147b431733715d2b7444368b5"
+hash = "d58808f2ab3542f5ecf4e2712446eddd29c7c31e01f7af868ba355f59b61931f"
 metafile = true
 
 [[files]]
