@@ -332,6 +332,11 @@ hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
+file = "mods/corner-portal-linking.pw.toml"
+hash = "19580aab4a3516dec38c2ddb8b6a8d4f86d53a7deb4acc44309624ab9e82b2c7"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "05f80197ca27d4d870aad7e48667412eed187c1478346902c9f0578d51662910"
 metafile = true
@@ -389,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "42dfcce7c74b69e55582b5b4ddb976846f644cc46122f9a1983db53e923b5a61"
 metafile = true
 
 [[files]]
