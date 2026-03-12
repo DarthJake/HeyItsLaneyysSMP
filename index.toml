@@ -207,8 +207,8 @@ hash = "f060633ec58d2c5498c963d00de015e3946ee8a1bc1043f7bc4782ddcf44051f"
 metafile = true
 
 [[files]]
-file = "mods/better-end-cities-for-betterend.pw.toml"
-hash = "0882839a5ca890164e26948ad8dc6e3aef3e15132d0c357d63ac28e0128b1a12"
+file = "mods/better-end-cities-base.pw.toml"
+hash = "2c05589983f4432f7f2f540bc9f38a030b21f2424dba577d6a8df68fd56a662a"
 metafile = true
 
 [[files]]
