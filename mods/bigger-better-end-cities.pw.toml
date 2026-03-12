@@ -1,6 +1,6 @@
 name = "Bigger Better End Cities"
 filename = "bigger_end_cities-1.20.1-1.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/A1ySbDYD/versions/1qa2zuL7/bigger_end_cities-1.20.1-1.0.4.jar"
