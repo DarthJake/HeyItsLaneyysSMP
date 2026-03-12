@@ -247,6 +247,11 @@ hash = "1e77bb42d892684f7ccdccf6b82169d9bb0eb339f40bc7014ef871253a877815"
 metafile = true
 
 [[files]]
+file = "mods/bigger-better-end-cities.pw.toml"
+hash = "822633fd0878d1e5af0aa2db955ca473dbb2e9c06e381784c6bb4f6b844e6723"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
