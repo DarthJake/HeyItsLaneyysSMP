@@ -38,7 +38,7 @@ hash = "d33bbd7704c6591123173397e8adcdfa162328809d8d5fe94afa5164437821c4"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "64770e3e8ee8045d16818a3e3f8d6dd94e813d1fc646fc3cb8fbb47c3644c558"
+hash = "a699c03d58e8f8faea5d1b943360897f2cca604b3eccf994fff1551367797313"
 
 [[files]]
 file = "config/inventorysorter/blacklist.json5"

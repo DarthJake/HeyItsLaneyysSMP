@@ -26,7 +26,7 @@
 	"permission_level_for_breaking_waystones": "ANYONE",
 	"global_mode_toggle_permission_levels": "OWNER",
 	"teleportation_cooldown": {
-		"cooldown_ticks_when_hurt": 0,
+		"cooldown_ticks_when_hurt": 300,
 		"cooldown_ticks_from_abyss_watcher": 0,
 		"cooldown_ticks_from_pocket_wormhole": 0,
 		"cooldown_ticks_from_local_void": 0,
