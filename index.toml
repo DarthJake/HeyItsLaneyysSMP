@@ -1172,7 +1172,7 @@ hash = "ae4696d76c5cb5ea83f2e6ab628423a820e6d5a11f89b1ffc7cf7c6f8d3f1dfd"
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "1c3a8e381ccd89d1519787c2900021c603cf3a222561e34ecc18f16f5901af1e"
+hash = "c26aac0c60d114f6946ed384f97b3a5521c39550205bc61d731358036ed2081b"
 
 [[files]]
 file = "scripts/customCreate.zs"
