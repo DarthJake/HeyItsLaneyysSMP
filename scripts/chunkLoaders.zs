@@ -1,9 +1,9 @@
 // Basic Chunk Loader
 recipes.remove(<item:chunkloaders:basic_chunk_loader>);
 craftingTable.addShaped("new_basic_chunk_loader", <item:chunkloaders:basic_chunk_loader>, [
-        [<item:minecraft:iron_block>, <block:minecraft:obsidian>, <item:minecraft:iron_block>],
-        [<block:minecraft:obsidian>, <item:dimdoors:reality_sponge>, <block:minecraft:obsidian>],
-        [<item:minecraft:iron_block>, <block:minecraft:obsidian>, <item:minecraft:iron_block>]
+        [<item:minecraft:iron_block>, <item:minecraft:obsidian>, <item:minecraft:iron_block>],
+        [<item:minecraft:obsidian>, <item:dimdoors:reality_sponge>, <item:minecraft:obsidian>],
+        [<item:minecraft:iron_block>, <item:minecraft:obsidian>, <item:minecraft:iron_block>]
     ]
 );
 
@@ -19,8 +19,8 @@ craftingTable.addShaped("new_advanced_chunk_loader", <item:chunkloaders:advanced
 // Ultimate Chunk Loader
 recipes.remove(<item:chunkloaders:ultimate_chunk_loader>);
 craftingTable.addShaped("new_ultimate_chunk_loader", <item:chunkloaders:ultimate_chunk_loader>, [
-        [<item:minecraft:redstone_block>, <block:minecraft:diamond_block>, <item:minecraft:redstone_block>],
+        [<item:minecraft:redstone_block>, <item:minecraft:diamond_block>, <item:minecraft:redstone_block>],
         [<item:minecraft:netherite_scrap>, <item:chunkloaders:basic_chunk_loader>, <item:minecraft:netherite_scrap>],
-        [<item:minecraft:redstone_block>, <block:minecraft:diamond_block>, <item:minecraft:redstone_block>]
+        [<item:minecraft:redstone_block>, <item:minecraft:diamond_block>, <item:minecraft:redstone_block>]
     ]
 );
