@@ -1,0 +1,73 @@
+{
+    "title": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            8
+        ],
+        "text": "This is the Title"
+    },
+    "close": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            50
+        ],
+        "text": "screen.welcomescreen.close"
+    },
+    "text_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            -40
+        ],
+        "text": [
+            "FIrst line XXXXXXXXXXXXXXXXXXXXXX",
+            "jo second line",
+            "Another line lul",
+            "okay"
+        ]
+    },
+    "image_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            0
+        ],
+        "size": [
+            28,
+            29
+        ],
+        "id": "minecraft:textures/gui/advancements/tabs.png"
+    },
+    "button_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            10
+        ],
+        "size": [
+            50,
+            20
+        ],
+        "text": "Wiki",
+        "link": "https://globox1997.github.io/wiki/"
+    },
+    "commands": [
+        "give @s minecraft:stick"
+    ],
+    "background": {
+        "center": false,
+        "object_center": true,
+        "id": "minecraft:textures/gui/options_background.png",
+        "size": [
+            0,
+            0
+        ]
+    }
+}
