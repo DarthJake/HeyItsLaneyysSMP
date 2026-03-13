@@ -282,11 +282,6 @@ hash = "8d2e29579e022c0eb9d2ba081e610d089375d801563d582cedbd5caefde0c372"
 metafile = true
 
 [[files]]
-file = "mods/chiseled-bookshelf-visualizer.pw.toml"
-hash = "04e0cc68599555110a9cad768b5273523a291ad82280b970a5d96711d8e9ebbc"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "59d74acf0465432b8c3b68116064ddcef7ceb54e7bca10871215f24d8ddc4c9c"
 metafile = true
@@ -999,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
+file = "mods/tellme.pw.toml"
+hash = "71453be06f5c6c2df34b465d0f9e6fcaf602814ea51d1a64e6a31449ea62829e"
 metafile = true
 
 [[files]]
