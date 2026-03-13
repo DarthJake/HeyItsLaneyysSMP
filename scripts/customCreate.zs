@@ -15,10 +15,9 @@ import mods.create.CrushingManager;
     200);
 
 // Hat Crushing
-<tag:items:simplehats:all_hats>
 <recipetype:create:crushing>.addRecipe("new_hat_crushing", 
     [<item:simplehats:hatscraps_common> % 75],
-    <item:simplehats:hatscraps_common>,
+    <tag:items:simplehats:all_hats>,
     200);
 
 // Disenchanter tweak
