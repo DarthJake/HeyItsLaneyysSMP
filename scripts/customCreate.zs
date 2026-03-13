@@ -14,6 +14,13 @@ import mods.create.CrushingManager;
     <item:dimdoors:unravelled_fabric>,
     200);
 
+// Hat Crushing
+<tag:items:simplehats:all_hats>
+<recipetype:create:crushing>.addRecipe("new_hat_crushing", 
+    [<item:simplehats:hatscraps_common> % 75],
+    <item:simplehats:hatscraps_common>,
+    200);
+
 // Disenchanter tweak
 recipes.remove(<item:create_enchantment_industry:disenchanter>);
 craftingTable.addShaped("new_disenchanter", <item:create_enchantment_industry:disenchanter>, [

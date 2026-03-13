@@ -74,7 +74,7 @@ hash = "9fd84d494d58e56ce62cd772dc6361994226337ec78dd936205b06c54311ef58"
 
 [[files]]
 file = "config/tide.json"
-hash = "c6f040e20ea3101eb9615613fc86b9e21a740909e075279f1aea6fdb8c9fe728"
+hash = "9b8e462312e60490d763897b054209d085793dbed283aa8bc429fe306d2d8752"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
@@ -1176,7 +1176,7 @@ hash = "c26aac0c60d114f6946ed384f97b3a5521c39550205bc61d731358036ed2081b"
 
 [[files]]
 file = "scripts/customCreate.zs"
-hash = "4ac0eeaaf061a17ece18d450b736ed98d272c4f5c4d43782bc6186959de8c4b0"
+hash = "5489eb375039f868ef8b3de6aabae32916a7f6a854a123d42e389d322cc6bb9f"
 
 [[files]]
 file = "scripts/dimDoors.zs"

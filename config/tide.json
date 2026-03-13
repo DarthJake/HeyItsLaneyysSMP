@@ -19,7 +19,7 @@
       {
         "dimension": "minecraft:the_end",
         "type": "RELATIVE_TO_BOTTOM",
-        "height": 50
+        "height": 8
       }
     ],
     "autoFishDataBlacklist": [],
