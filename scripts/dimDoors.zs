@@ -34,7 +34,7 @@ craftingTable.addShaped("new_quartz_dimensional_door", <item:dimdoors:item_ag_di
 recipes.remove(<item:dimdoors:item_ag_dim_dimdoors_stone_door>);
 craftingTable.addShaped("new_stone_dimensional_door", <item:dimdoors:item_ag_dim_dimdoors_stone_door>, [
         [<item:dimdoors:world_thread>, <item:minecraft:air>, <item:dimdoors:world_thread>],
-        [<item:dimdoors:stone_door>, <item:kubejs:dimensional_key>, <item:dimdoors:stone_door>],
+        [<item:dimdoors:stone_door>, <item:kubejs:dimensional_lock>, <item:dimdoors:stone_door>],
         [<item:minecraft:air>, <item:fwaystones:abyss_watcher>, <item:minecraft:air>]
 		]
 );
