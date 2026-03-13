@@ -61,6 +61,18 @@ file = "config/origins_server.json"
 hash = "7c02d921c382d2e35c3562dff6eaba0b7756bf6e793f9fe24236a7ca1ec59109"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
+hash = "3bbcaca8a773be45a2f3f7e04c344d418f797641311d8b9f312bce829858edcb"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
@@ -1067,6 +1079,11 @@ metafile = true
 [[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
+metafile = true
+
+[[files]]
+file = "mods/welcomescreen.pw.toml"
+hash = "faeebf233eb6bae0b70a70eefd7b9bdb4beb2b5d302da0d33b54bfd7238a7fd7"
 metafile = true
 
 [[files]]
