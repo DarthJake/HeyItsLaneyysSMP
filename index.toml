@@ -21,6 +21,10 @@ file = "config/better_log4j_config.xml"
 hash = "0d4b02adbdfc1eebc2c5019a86ecc4d29f061fb3ad1693ca56d9674a116038c8"
 
 [[files]]
+file = "config/betterstats.json"
+hash = "572c623b80564de30003cb21df050f95754ed4f480cb674aed35c7732be75763"
+
+[[files]]
 file = "config/botania-common.json5"
 hash = "c58462b9068f77994b4caf6b316f438542d39fe4050b810bd46b61e54f452268"
 
@@ -63,6 +67,14 @@ hash = "7c02d921c382d2e35c3562dff6eaba0b7756bf6e793f9fe24236a7ca1ec59109"
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/CustomWelcomeScreen/data/heyitsminecraftt/welcomescreen/CustomWelcomeScreen.json"
+hash = "73a5f22f2b9f061e0e4929a4369ceccb266e29d6605efd47ddfd68677b5ec8f1"
+
+[[files]]
+file = "config/paxi/datapacks/CustomWelcomeScreen/pack.mcmeta"
+hash = "22fd69a9984290c14714907ae7b605928433c9a9f7ce0a6c7202f26c4b0c7b77"
 
 [[files]]
 file = "config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
