@@ -925,6 +925,11 @@ hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
 
 [[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "89032e388fe39eb07d895f81c59e9e94ad51e80f5e8e9d9dfe7f171f3152b78c"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
