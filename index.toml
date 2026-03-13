@@ -1147,6 +1147,10 @@ file = "scripts/botania.zs"
 hash = "7396c2be38934732455bf67249ebce2fa2a7c9d19c0f064ee76bac70fca699b8"
 
 [[files]]
+file = "scripts/chunkLoaders.zs"
+hash = "23b984a1472308281aa54a9f839ec5b84e0c5c09d3ce089e99a220802dbc4741"
+
+[[files]]
 file = "scripts/custom.zs"
 hash = "1c3a8e381ccd89d1519787c2900021c603cf3a222561e34ecc18f16f5901af1e"
 
