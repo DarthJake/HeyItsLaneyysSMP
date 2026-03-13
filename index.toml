@@ -412,6 +412,11 @@ hash = "0946a740d9e6861df0ec3bc86d261d9fad7bafd591cc17f9f75aaeb954e37b9e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "529f54bf18f7c2011ae732a9129310414bfa92c74c292b5520445623622a6694"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
 metafile = true
