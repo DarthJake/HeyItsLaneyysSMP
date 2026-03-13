@@ -13,6 +13,10 @@ file = "config/artifacts/common.json5"
 hash = "2cf502755c5396afc2db6652f7459dfbb6d6a8bd6784a9bc08882102df7226eb"
 
 [[files]]
+file = "config/bcc.json"
+hash = "05671bf63d28fe3d33afeb0ce6bdcad9529de40d46058329b04884215a409f62"
+
+[[files]]
 file = "config/better_log4j_config.xml"
 hash = "0d4b02adbdfc1eebc2c5019a86ecc4d29f061fb3ad1693ca56d9674a116038c8"
 
