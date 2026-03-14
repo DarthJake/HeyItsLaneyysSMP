@@ -1231,7 +1231,7 @@ hash = "7396c2be38934732455bf67249ebce2fa2a7c9d19c0f064ee76bac70fca699b8"
 
 [[files]]
 file = "scripts/chunkLoaders.zs"
-hash = "618e409b21f1ac20afc92b70a42634dbd6887b2b903e9d900ec61389ee913fd8"
+hash = "04536dce759750b7a2731f275d0d27669f8fd219c49b6d332ed48ae9667ee043"
 
 [[files]]
 file = "scripts/custom.zs"

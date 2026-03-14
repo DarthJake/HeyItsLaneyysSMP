@@ -20,7 +20,7 @@ craftingTable.addShaped("new_advanced_chunk_loader", <item:chunkloaders:advanced
 recipes.remove(<item:chunkloaders:ultimate_chunk_loader>);
 craftingTable.addShaped("new_ultimate_chunk_loader", <item:chunkloaders:ultimate_chunk_loader>, [
         [<item:minecraft:redstone_block>, <item:chunkloaders:advanced_chunk_loader>, <item:minecraft:redstone_block>],
-        [<block:minecraft:netherite_scrap>, <item:minecraft:diamond_block>, <block:minecraft:netherite_scrap>],
+        [<item:minecraft:netherite_scrap>, <item:minecraft:diamond_block>, <item:minecraft:netherite_scrap>],
         [<item:minecraft:redstone_block>, <item:chunkloaders:advanced_chunk_loader>, <item:minecraft:redstone_block>]
     ]
 ); 
