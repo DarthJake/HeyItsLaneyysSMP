@@ -174,7 +174,7 @@ hash = "4b938cfd1ffd7a1dd08efad1c3c5c4f4345787c9108cf847f2fb9731fd265baf"
 
 [[files]]
 file = "kubejs/data/heyitsminecraftt/welcomescreen/custom_welcome_screen.json"
-hash = "73a5f22f2b9f061e0e4929a4369ceccb266e29d6605efd47ddfd68677b5ec8f1"
+hash = "afce4afaa34ee1df16a15e4d63590028499c27b212d062e138f9f60e68e584d9"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
