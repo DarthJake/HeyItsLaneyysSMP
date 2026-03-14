@@ -60,7 +60,7 @@
     },
     "commands": [
         "clear @s",
-        "give mouse_of_danger ftbquests:book{display:{Name:'{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#8D4FE2\",\"text\":\"HeyItsQuestBookk\"}'}}"
+        "give @s ftbquests:book{display:{Name:'{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#8D4FE2\",\"text\":\"HeyItsQuestBookk\"}'}}"
     ],
     "background": {
         "center": false,
