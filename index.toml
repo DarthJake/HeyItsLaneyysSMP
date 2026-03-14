@@ -33,6 +33,10 @@ file = "config/dimdoors-config.json5"
 hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
 [[files]]
+file = "config/dragonfight.json"
+hash = "e4b1cf6ad28f0c60cfc4a77f56dbe96c30f737fc40ba20184b982be42baecebd"
+
+[[files]]
 file = "config/easyanvils-server.toml"
 hash = "56505bde5ecca1c2f1173b25b04ebc798354ea070d015ab80d9dbb6dea49bb83"
 
