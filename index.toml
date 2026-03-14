@@ -157,8 +157,8 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/dimensional_lock.png"
-hash = "e7d11dabed13607ca5001c83b43ac250917084f86e17934b297e31b892502385"
+file = "kubejs/assets/kubejs/textures/item/dimensional_key.png"
+hash = "e8a06da5c0f3ab61c353e0568d1b28ea44c74620cd53725c28a61fefb5edf87a"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -181,8 +181,8 @@ file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
-file = "kubejs/startup_scripts/dimensional_lock.js"
-hash = "d5d630e47e9c9445fed873199bb8e6f58dd43486da5d602ae3d01e1eb0ae0d2c"
+file = "kubejs/startup_scripts/dimensional_key.js"
+hash = "d20426f1eb2b23d4e970e561b6674de455327514840cfdb748035a26f72cd78e"
 
 [[files]]
 file = "kubejs/startup_scripts/heyitsquestbookk.js"
@@ -1235,7 +1235,7 @@ hash = "04536dce759750b7a2731f275d0d27669f8fd219c49b6d332ed48ae9667ee043"
 
 [[files]]
 file = "scripts/custom.zs"
-hash = "c26aac0c60d114f6946ed384f97b3a5521c39550205bc61d731358036ed2081b"
+hash = "1c3a8e381ccd89d1519787c2900021c603cf3a222561e34ecc18f16f5901af1e"
 
 [[files]]
 file = "scripts/customCreate.zs"
@@ -1243,7 +1243,7 @@ hash = "2819bf346abf47771f2f70a77bb70d2db27724185a789f27a23d97114b8d9cc3"
 
 [[files]]
 file = "scripts/dimDoors.zs"
-hash = "2df1a5b20ebcc6b32f95c6efcbd85ae03aa8605cc615329d87cf41225736914e"
+hash = "fd26f70ebadee58572d97c9e0f549bd93e2095a0932a3aeac85762163024767c"
 
 [[files]]
 file = "scripts/fwaystones.zs"
