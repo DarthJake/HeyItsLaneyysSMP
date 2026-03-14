@@ -97,6 +97,10 @@ file = "config/visualworkbench-client.toml"
 hash = "7323d935e67644b0b13fda65a59be54481b282c15b29cb5f41be000f62643727"
 
 [[files]]
+file = "config/welcomescreen.json5"
+hash = "189335e7791f693894bbc215003c73e9ae078d7a9cbb5d40b66d5b71b911be3f"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "d33bbd7704c6591123173397e8adcdfa162328809d8d5fe94afa5164437821c4"
 
