@@ -149,7 +149,7 @@ file = "kubejs/assets/dimdoors/textures/item/stone_door.png"
 hash = "1f061a2ff694e94a1596af0c32a829c9a0675d42a2418ecb3c50218ed09fca70"
 
 [[files]]
-file = "kubejs/assets/ftbquests/items/book.png"
+file = "kubejs/assets/ftbquests/item/book.png"
 hash = "50479e8f935901d9f2d70f4b3c5398cfbe0640178361d94f1e82ababde09a784"
 
 [[files]]
