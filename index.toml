@@ -57,6 +57,22 @@ file = "config/inventorysorter/config.json5"
 hash = "e35205904ff1350a20dd10368897e83e1219e64b5fc8b67197ca1702f695e328"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "d04c211508c073c0d066977805673d56e1f524b7a7a330655cdb1f1db7031e4b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "bcee1f86a06cf5a16d3c3afcaf1597aac85124a119d9e964ee278645696f05be"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "6b577b125a85012f01f46f6116a644ff2368346c1dea32844c39866d87dc6b7a"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
