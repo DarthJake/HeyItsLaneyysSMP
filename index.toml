@@ -149,16 +149,16 @@ file = "kubejs/assets/dimdoors/textures/item/stone_door.png"
 hash = "1f061a2ff694e94a1596af0c32a829c9a0675d42a2418ecb3c50218ed09fca70"
 
 [[files]]
+file = "kubejs/assets/ftbquests/items/book.png"
+hash = "50479e8f935901d9f2d70f4b3c5398cfbe0640178361d94f1e82ababde09a784"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/dimensional_lock.png"
 hash = "e7d11dabed13607ca5001c83b43ac250917084f86e17934b297e31b892502385"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/heyitsquestbookk.png"
-hash = "50479e8f935901d9f2d70f4b3c5398cfbe0640178361d94f1e82ababde09a784"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -186,7 +186,7 @@ hash = "d5d630e47e9c9445fed873199bb8e6f58dd43486da5d602ae3d01e1eb0ae0d2c"
 
 [[files]]
 file = "kubejs/startup_scripts/heyitsquestbookk.js"
-hash = "cb4d02fffe18c071bd5dd64204143ec40e6adfaa341dc4bcd0d02979f11d736c"
+hash = "ec44db92a5a12ba4b19262d012d383f58e47a2aa84a3efcac5e1049b3235997d"
 
 [[files]]
 file = "mods/abridged.pw.toml"
