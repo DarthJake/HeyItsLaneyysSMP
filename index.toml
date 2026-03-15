@@ -113,6 +113,10 @@ file = "config/simplehats/common.toml"
 hash = "1179621a768252dafe9f9a29e65c6d781999ef7c027447bcfd4e52c1fb95939d"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "3036f61e2361908d68fc8c41b44b6722e192f72bdaefcadd133e9c6da3b05fe5"
+
+[[files]]
 file = "config/structurify.json"
 hash = "9fd84d494d58e56ce62cd772dc6361994226337ec78dd936205b06c54311ef58"
 
