@@ -114,7 +114,7 @@ hash = "1179621a768252dafe9f9a29e65c6d781999ef7c027447bcfd4e52c1fb95939d"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "3036f61e2361908d68fc8c41b44b6722e192f72bdaefcadd133e9c6da3b05fe5"
+hash = "f504a8ae0234f386d0f6c73d4f8de8dc538a4cb5ca604081810df4b17b97a737"
 
 [[files]]
 file = "config/structurify.json"

@@ -36,7 +36,7 @@
 		health-formula: baseHealth + max(floor((20/600) * uniqueFoodsEaten), 0)
 		// default: -1
 		// 	Must be inclusively between -1 and 200
-		max-health: 20
+		max-health: 30
 		// default: true
 		uneaten-in-journal: true
 	}
