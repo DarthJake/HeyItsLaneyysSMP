@@ -485,11 +485,6 @@ hash = "e97b4a2e3dd458ececbb0300c606e9692590bc1d4da6c9c83a38f9e3f3276393"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators.pw.toml"
-hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
-metafile = true
-
-[[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "42dfcce7c74b69e55582b5b4ddb976846f644cc46122f9a1983db53e923b5a61"
 metafile = true
