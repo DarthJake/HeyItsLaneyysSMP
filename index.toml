@@ -1267,12 +1267,12 @@ file = "scripts/dimDoors.zs"
 hash = "fd26f70ebadee58572d97c9e0f549bd93e2095a0932a3aeac85762163024767c"
 
 [[files]]
-file = "scripts/fwaystones.zs"
-hash = "0c2e77e75fb8d00c0474a970080cf4c1f640aa39a2205984fb74308bbfc3928b"
+file = "scripts/ftbQuests.zs"
+hash = "944dfa95f3421ff14ede2c757691a251a5acf821ca841d510c9d2901564efc12"
 
 [[files]]
-file = "scripts/miscRecipies.zs"
-hash = "4c399694bcd8a64d83f5be77d9b4cefe8564f304dd60ecdc7c3aed93f385b1ff"
+file = "scripts/fwaystones.zs"
+hash = "0c2e77e75fb8d00c0474a970080cf4c1f640aa39a2205984fb74308bbfc3928b"
 
 [[files]]
 file = "scripts/newBackpackRecipes.zs"
