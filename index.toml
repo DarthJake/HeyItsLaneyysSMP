@@ -57,6 +57,10 @@ file = "config/fwaystones/config.json5"
 hash = "7a0d362b10ca698054699cd64c3e783943827715b8788c38a652f9d98ebddfca"
 
 [[files]]
+file = "config/inmis.json"
+hash = "23ff6b40c1bd73a366b1f88f8663f5f4fab5c9799496e80067efa037519173bf"
+
+[[files]]
 file = "config/inventorysorter/blacklist.json5"
 hash = "c7eaa253264c4d10af5134b9ecfeb15ca68492bd85d81fedbeb3b66193f83b09"
 
@@ -114,7 +118,7 @@ hash = "1179621a768252dafe9f9a29e65c6d781999ef7c027447bcfd4e52c1fb95939d"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "f504a8ae0234f386d0f6c73d4f8de8dc538a4cb5ca604081810df4b17b97a737"
+hash = "5d72adc25c9dd696d488ca3ae8dc11cbc745f361e8433257420759aede26dd77"
 
 [[files]]
 file = "config/structurify.json"
