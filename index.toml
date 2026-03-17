@@ -1289,3 +1289,7 @@ hash = "37b3f6da85ff852ac1822ef2c2c2cf21707a785f38a14bb4b94ab3db3fb411b3"
 [[files]]
 file = "scripts/removeItems.zs"
 hash = "35529f9486e19d41e9a89b90f7bd33b1d0b6b1d7ef20457918ef26d103359152"
+
+[[files]]
+file = "scripts/simpleHats.zs"
+hash = "8b4db0961cea85a11dfcc7aaa5c933603cb1d4f3d6a1089acc19bbad559c5905"
