@@ -113,6 +113,14 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "3300e7cea60df793e85024df142d078c12658de0362326fa1af69caa9001e805"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
