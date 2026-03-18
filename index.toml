@@ -37,6 +37,10 @@ file = "config/botania-common.json5"
 hash = "c58462b9068f77994b4caf6b316f438542d39fe4050b810bd46b61e54f452268"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "d21018cb34fcb1b7eef8223b9afa796f6f9c92ed283bf23697338ce537293b58"
+
+[[files]]
 file = "config/dimdoors-config.json5"
 hash = "f672ed1b463ffc5b0f7ac9fe351456166357f9789be9452728c2f621043ff03c"
 
