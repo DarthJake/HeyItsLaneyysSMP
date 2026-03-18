@@ -67,7 +67,7 @@ craftingTable.addShaped("new_withered", <item:inmis:withered_backpack>, [
 // Adding new Endless Backpack recipe 
 recipes.remove(<item:inmis:endless_backpack>);
 craftingTable.addShaped("new_endless", <item:inmis:endless_backpack>, [
-        [<item:minecraft:dragon_head>, <item:minecraft:chorus_flower>, <item:minecraft:dragon_head>],
+        [<item:betterend:eternal_crystal>, <item:minecraft:chorus_flower>, <item:betterend:eternal_crystal>],
         [<item:minecraft:shulker_shell>, <item:inmis:withered_backpack>, <item:minecraft:shulker_shell>],
         [<item:minecraft:end_stone>, <item:minecraft:elytra>, <item:minecraft:end_stone>]
     ], 

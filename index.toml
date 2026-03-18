@@ -1284,8 +1284,8 @@ file = "scripts/fwaystones.zs"
 hash = "0c2e77e75fb8d00c0474a970080cf4c1f640aa39a2205984fb74308bbfc3928b"
 
 [[files]]
-file = "scripts/newBackpackRecipes.zs"
-hash = "e1d1f09a86e60bfb6c1e2ce5bc0ab809923a484f17b015e05cf7e5435df76328"
+file = "scripts/inmis.zs"
+hash = "7f9d8a152d30453006c59aa23de0c93c218ad4496573061125709ead1bdf1408"
 
 [[files]]
 file = "scripts/newDrawerUpgradeRecipes.zs"
