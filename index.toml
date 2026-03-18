@@ -173,6 +173,10 @@ file = "kubejs/assets/ftbquests/textures/item/book.png"
 hash = "50479e8f935901d9f2d70f4b3c5398cfbe0640178361d94f1e82ababde09a784"
 
 [[files]]
+file = "kubejs/assets/heyitsminecraftt/textures/pack.png"
+hash = "23052bf31af8437a960cbc44fc7990bb7749c390a356815c14ad1780db68435d"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -198,7 +202,7 @@ hash = "b0f32b2413b1a656fb55f58ac6d2ecbc1340177c3f10979479db5bc77fd8abdd"
 
 [[files]]
 file = "kubejs/data/heyitsminecraftt/welcomescreen/custom_welcome_screen.json"
-hash = "f5fdea81cfb3ff9ef106e9004ce8513ba9be1c77e51c9048f9069775abb863eb"
+hash = "cdafca5352f952cdc5e9a523c681909fb2526cf1a36554d93e5d59a339ba4ed6"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"

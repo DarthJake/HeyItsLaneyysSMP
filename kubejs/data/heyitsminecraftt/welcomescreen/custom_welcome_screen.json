@@ -6,57 +6,47 @@
             0,
             8
         ],
-        "text": "This is the Title"
-    },
-    "close": {
-        "center": true,
-        "object_center": true,
-        "pos": [
-            0,
-            50
-        ],
-        "text": "screen.welcomescreen.close"
+        "text": "Welcome to HeyItsMinecraftt!"
     },
     "text_1": {
         "center": true,
         "object_center": true,
         "pos": [
             0,
-            -40
+            5
         ],
         "text": [
-            "FIrst line XXXXXXXXXXXXXXXXXXXXXX",
-            "jo second line",
-            "Another line lul",
-            "okay"
+            "We are so happy to welcome everyone to version 3.0. There is tons to explore this update,",
+            "from verdant magic to ancient tomes, mysteries of the rainbow to mechanical marvels, this",
+            "pack has tons to offer! When you spawn you will be prompted to pick an Origin, be careful",
+            "as this will impact many gameplay systems in new ways. This update also adds a * light *",
+            "quest system (accessed in the top left of the inventory screen or by the questbook) where",
+            "you will be introduced to some of the new mods and features. Check back often for rewards!",
+            "We encourage you to build your main base within ~3000 blocks from spawn so that you can",
+            "visit your neighbors."
         ]
     },
     "image_1": {
         "center": true,
         "object_center": true,
         "pos": [
-            60,
-            0
+            0,
+            -20
         ],
         "size": [
-            28,
-            29
+            256,
+            256
         ],
-        "id": "minecraft:textures/gui/advancements/tabs.png"
+        "id": "heyitsminecraftt:textures/pack.png"
     },
-    "button_1": {
+    "close": {
         "center": true,
         "object_center": true,
         "pos": [
             0,
-            10
+            112
         ],
-        "size": [
-            50,
-            20
-        ],
-        "text": "Wiki",
-        "link": "https://globox1997.github.io/wiki/"
+        "text": "Start"
     },
     "commands": [
         "clear @s",
@@ -65,7 +55,7 @@
     "background": {
         "center": false,
         "object_center": true,
-        "id": "minecraft:textures/gui/options_background.png",
+        "id": "textures/gui/advancements/backgrounds/stone.png",
         "size": [
             0,
             0
