@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "3ad9e872448c640a7b3ddd8f32879667c2be641d81e2268dd620d8324bfe046c"
+hash = "cc1bcddf2a61f8f3e65c19f6a5a7657377606210ffbf32a1230cf39ae9cadacf"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "05f80197ca27d4d870aad7e48667412eed187c1478346902c9f0578d51662910"
+hash = "cb5570d39549f1cb1e04eccd7ac97d879130fa103c2776b5f6fc5d5435271b19"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c5f48712b804f39a35e1cf1be3c6eecdd1e2952c1c0cfab453a140e40fbe74c0"
+hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
-hash = "f0eaa999dd81ab6add37ed9efeee273d42efa985e3a07bd9503f9536ebdc0e6b"
+hash = "f5b50b85c229c7ea51f46fd7b0b1c9dad8b840b18dec0cfb5e082973ea7482f7"
 metafile = true
 
 [[files]]
@@ -956,12 +956,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "416b46fc5c69d7ca02932d2723c1240e6a6148b1dcca0e8e0be094ab6c156b5d"
+hash = "8e738f6831799941b6e0abf306a3f8274110bc9ffbf2ecaf5b62cd521fe16441"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "ba762d5a0986b2df232bea7f147cab9e260d63cb536fd5bf8890bc192e292202"
+hash = "d718281239ac59af7177931ce6f8777121dec57895b3b60268b16f988c9ae9c0"
 metafile = true
 
 [[files]]

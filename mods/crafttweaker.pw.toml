@@ -1,13 +1,13 @@
 name = "CraftTweaker"
-filename = "CraftTweaker-fabric-1.20.1-14.0.59.jar"
+filename = "CraftTweaker-fabric-1.20.1-14.0.60.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/eMDmObNh/CraftTweaker-fabric-1.20.1-14.0.59.jar"
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/gQ5hs0IZ/CraftTweaker-fabric-1.20.1-14.0.60.jar"
 hash-format = "sha512"
-hash = "0e97c6c7022878a0939368589ce4cd03fcac628de19bfdc595f11abe8f1c423a4cd5e92ccd9eafa3f20c87caab2ad329513c24073b8b7fd3c104a7d3a49cd0bb"
+hash = "35b400facf98136d76b2e0cdc8a1642d1615f90d69cb904f8a936bc1407633c1c318d123cfa3d9e2d93a7817578a9da75fa9b116f170b4c81b9e6bc5ecd45abe"
 
 [update]
 [update.modrinth]
 mod-id = "Xg35A4rS"
-version = "eMDmObNh"
+version = "gQ5hs0IZ"
