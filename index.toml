@@ -470,6 +470,11 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
+file = "mods/create-origins.pw.toml"
+hash = "9283d4d478c39df45f793a97b36d861d18ee23d922fd5a6ddd5d60bc0b935fb6"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
@@ -612,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
+metafile = true
+
+[[files]]
+file = "mods/even-more-origins.pw.toml"
+hash = "5bde524e89e285944ddf790a2ccb2bf6c71502a129edea54878c8388dfbb38c8"
 metafile = true
 
 [[files]]
@@ -865,6 +875,11 @@ hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
 metafile = true
 
 [[files]]
+file = "mods/moborigins.pw.toml"
+hash = "4d08ae5905273cdf882db0d2000603ad65f3761997e3c48c627e9dfc4c8d7fd3"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -1045,6 +1060,11 @@ hash = "fa732831c626efd3ae14536db3eef7d6abf7b0ed04f9a80a7ded6a24ac6c3a82"
 metafile = true
 
 [[files]]
+file = "mods/seleni.pw.toml"
+hash = "ec975f6883257fe1e7a9b401f5b30d068983517a36a472cc795073b907ba8088"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
@@ -1152,6 +1172,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "35c83298f94c3ddde37bb5c24086d50379f63decf39de2dd3340a13eda514d09"
 metafile = true
 
 [[files]]
