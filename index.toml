@@ -157,10 +157,6 @@ file = "config/yosbr/options.txt"
 hash = "b86dc0d210db871337c34586c32f1fe9f3cf9a25995ce2c5546d6eed45a342f7"
 
 [[files]]
-file = "current List.txt"
-hash = "dbda1044d52c869764cbb2c584ab9dfb6449325d77de219546e418e840636491"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -1268,18 +1264,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "a55e6247a74bb3e5e13358f60918c06eeede47832602925c174b1a1511daec07"
 metafile = true
-
-[[files]]
-file = "patchouli_books/the_quick_rundown/book.json"
-hash = "5123403f47e5dc0adf73c00cfd630e44c0b5c404ccdf1b5c1f0380f5e56e9463"
-
-[[files]]
-file = "patchouli_books/the_quick_rundown/en_us/categories/main.json"
-hash = "5d081b3439eba32f955fbd8340fac3a3da50a2bb28a663f0a3bf60446ef19185"
-
-[[files]]
-file = "patchouli_books/the_quick_rundown/en_us/entries/main/the_quick_rundown.json"
-hash = "27a543d4c1085da8bd650afea4050e8dfd4eaa02d987f566a4fa4815e6f4c133"
 
 [[files]]
 file = "scripts/botania.zs"
