@@ -93,6 +93,10 @@ file = "config/lithium.properties"
 hash = "05f67184a6dd0a979359f4b766e69d10c177ab0eb1c29ad48dd50d6ffefa349f"
 
 [[files]]
+file = "config/logbegone.toml"
+hash = "9ad5d53cbc0b93ce43a34ca121ad1ae0f2ab11e89eeac54a695147214e885dcf"
+
+[[files]]
 file = "config/mindfuldarkness-client.toml"
 hash = "1980077a5e3cc66781a8df8f4cb9beaea52fac29e428e1faadd5b6b2dbc00f65"
 
