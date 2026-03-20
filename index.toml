@@ -735,6 +735,11 @@ hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "3f54a3bc123f830c345133143a2a42c847833a352c10d0273b434c15f4218d96"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -1037,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/seed-delight.pw.toml"
 hash = "fa732831c626efd3ae14536db3eef7d6abf7b0ed04f9a80a7ded6a24ac6c3a82"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
