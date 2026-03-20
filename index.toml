@@ -1175,11 +1175,6 @@ hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
 metafile = true
 
 [[files]]
-file = "mods/toomanyorigins.pw.toml"
-hash = "35c83298f94c3ddde37bb5c24086d50379f63decf39de2dd3340a13eda514d09"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ebc91123261bd6548c350112fa648a1eda47f37a09dbca05a118cf096c9a76c1"
 metafile = true
