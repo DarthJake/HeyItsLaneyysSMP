@@ -240,6 +240,11 @@ hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
 
 [[files]]
+file = "mods/additionalentityattributes.pw.toml"
+hash = "48770bc79702c9bc6476ca99e159fea6f28133e125f7ffcdb4c85e1e24c69631"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
