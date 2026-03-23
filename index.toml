@@ -10,7 +10,7 @@ hash = "9e6ab07b7151bb57048a7d9a0fd430d7cb5dd6a432e001e7e21b7f07269ea73d"
 
 [[files]]
 file = "config/artifacts/common.json5"
-hash = "2cf502755c5396afc2db6652f7459dfbb6d6a8bd6784a9bc08882102df7226eb"
+hash = "d58bba24f5b10a048ed2161ef531669b2d2e441412c82d639a9cf5c1a31c8088"
 
 [[files]]
 file = "config/bcc.json"
