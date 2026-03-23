@@ -57,6 +57,10 @@ file = "config/easymagic-server.toml"
 hash = "e27ae911bd78684973db4f8d9c437868fcb7a3afa1b0de2cbc193305ffa50ed4"
 
 [[files]]
+file = "config/extended_drawers.json"
+hash = "704ae2c9e7947305ebcbce5f8864ef36b15c3bbe5871cc287459aa845bc6bdeb"
+
+[[files]]
 file = "config/extraalchemy.json"
 hash = "240af152a5c6468547c7cba2569a055cee88b0bb3d3f3144a7cea5724ad7f78f"
 
