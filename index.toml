@@ -57,6 +57,10 @@ file = "config/easymagic-server.toml"
 hash = "e27ae911bd78684973db4f8d9c437868fcb7a3afa1b0de2cbc193305ffa50ed4"
 
 [[files]]
+file = "config/extraalchemy.json"
+hash = "240af152a5c6468547c7cba2569a055cee88b0bb3d3f3144a7cea5724ad7f78f"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "7a0d362b10ca698054699cd64c3e783943827715b8788c38a652f9d98ebddfca"
 
