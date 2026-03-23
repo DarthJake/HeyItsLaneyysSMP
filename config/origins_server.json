@@ -8,7 +8,8 @@
       "origins:pumpkin_hate": true,
       "origins:extra_reach": true,
       "origins:ender_particles": true,
-      "origins:damage_from_potions": true
+      "origins:damage_from_potions": true,
+      "even-more-origins:big": true
     },
     "origins:human": {
       "enabled": true
@@ -124,6 +125,172 @@
       "extraorigins:infestation": true,
       "extraorigins:rooted": true,
       "extraorigins:decomposition": true
+    },
+    "moborigins:witch": {
+      "enabled": true,
+      "moborigins:better_potions": true,
+      "moborigins:potion_action": true,
+      "moborigins:witch_particles": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "moborigins:drowned": {
+      "enabled": true,
+      "moborigins:trident_expert": true,
+      "moborigins:water_vision": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:water_combatant": true,
+      "moborigins:undead": true,
+      "moborigins:zombie_hunger": true,
+      "moborigins:surface_slowness": true,
+      "origins:carnivore": true
+    },
+    "even-more-origins:charged_sphagnum": {
+      "enabled": true,
+      "even-more-origins:charged": true,
+      "even-more-origins:explode_charged": true,
+      "even-more-origins:green": true,
+      "even-more-origins:less_hunger": true,
+      "even-more-origins:sneaky": true,
+      "even-more-origins:weak_arms": true
+    },
+    "even-more-origins:sphagnum": {
+      "enabled": true,
+      "even-more-origins:explode": true,
+      "even-more-origins:green": true,
+      "even-more-origins:less_hunger": true,
+      "even-more-origins:sneaky": true,
+      "even-more-origins:weak_arms": true
+    },
+    "moborigins:bee": {
+      "enabled": true,
+      "moborigins:stinger": true,
+      "moborigins:flower_power": true,
+      "moborigins:queen_bee": true,
+      "moborigins:small_bug": true,
+      "moborigins:bee_wings": true,
+      "origins:vegetarian": true
+    },
+    "moborigins:guardian": {
+      "enabled": true,
+      "moborigins:guardian_spikes": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "even-more-origins:vulpes": {
+      "enabled": true,
+      "even-more-origins:berry_lover": true,
+      "even-more-origins:fox_ears": true,
+      "even-more-origins:frail": true,
+      "even-more-origins:nimble": true,
+      "even-more-origins:pounce": true,
+      "even-more-origins:small": true
+    },
+    "even-more-origins:terram_draconis": {
+      "enabled": true,
+      "even-more-origins:dragon_breath": true,
+      "even-more-origins:dragon_crystal": true,
+      "even-more-origins:dragon_wings": true,
+      "even-more-origins:fast_metabolism": true,
+      "even-more-origins:magic_immunity": true,
+      "even-more-origins:no_regen": true
+    },
+    "moborigins:elder_guardian": {
+      "enabled": true,
+      "moborigins:elder_spikes": true,
+      "moborigins:elder_magic": true,
+      "moborigins:mining_fatigue_immune": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "even-more-origins:golmi": {
+      "enabled": true,
+      "even-more-origins:big": true,
+      "even-more-origins:heavy": true,
+      "even-more-origins:no_air": true,
+      "even-more-origins:no_fall": true,
+      "even-more-origins:strong_arms": true
+    },
+    "moborigins:evoker": {
+      "enabled": true,
+      "moborigins:summon_fangs": true,
+      "moborigins:lower_totem_chance": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "even-more-origins:equidae": {
+      "enabled": true,
+      "even-more-origins:pack_animal": true,
+      "even-more-origins:strong_legs": true,
+      "even-more-origins:vegetarian": true
+    },
+    "moborigins:wolf": {
+      "enabled": true,
+      "moborigins:wolf_body": true,
+      "moborigins:full_moon": true,
+      "moborigins:alpha_wolf": true,
+      "moborigins:wolf_howl": true,
+      "moborigins:wolf_pack": true,
+      "origins:carnivore": true
+    },
+    "moborigins:fox": {
+      "enabled": true,
+      "moborigins:timid_creature": true,
+      "moborigins:better_berries": true,
+      "moborigins:careful_gatherer": true,
+      "moborigins:item_collector": true,
+      "moborigins:sly": true,
+      "moborigins:small_fox": true
+    },
+    "moborigins:snowgolem": {
+      "enabled": true,
+      "origins:water_vulnerability": true,
+      "moborigins:temperature": true,
+      "moborigins:overheat": true,
+      "moborigins:melting": true,
+      "moborigins:stronger_snowballs": true,
+      "moborigins:snow_trail": true,
+      "moborigins:frigid_strength": true
+    },
+    "moborigins:slime": {
+      "enabled": true,
+      "moborigins:bouncy": true,
+      "moborigins:split": true,
+      "moborigins:small_weak": true,
+      "origins:fall_immunity": true,
+      "moborigins:slimy_color": true,
+      "moborigins:dyeable": true
+    },
+    "moborigins:strider": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:water_vulnerability": true,
+      "moborigins:lava_walk": true,
+      "moborigins:surface_slowness": true,
+      "moborigins:rideable_creature": true,
+      "moborigins:strider_shake": true,
+      "moborigins:warped_fungus_eater": true
     }
   }
 }
