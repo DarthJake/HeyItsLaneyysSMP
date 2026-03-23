@@ -114,7 +114,7 @@ hash = "1980077a5e3cc66781a8df8f4cb9beaea52fac29e428e1faadd5b6b2dbc00f65"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "328ca46463fc230069842ba25e0b22c2fd97e5b89136a588dee324db056e7e3b"
+hash = "5fe21d70a8cd5c3a62fea790ec1a7edfa092157854a4b53adf0c9f7c6fc168b0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"

@@ -7,9 +7,7 @@
       "origins:water_vulnerability": true,
       "origins:pumpkin_hate": true,
       "origins:extra_reach": true,
-      "origins:ender_particles": true,
-      "origins:damage_from_potions": true,
-      "even-more-origins:big": true
+      "origins:ender_particles": true
     },
     "origins:human": {
       "enabled": true
@@ -40,7 +38,7 @@
       "extraorigins:piglin_neutrality": true,
       "origins:nether_spawn": true,
       "extraorigins:homesick": true,
-      "extraorigins:golden_gluttony": true,
+      "extraorigins:golden_gluttony": false,
       "extraorigins:flabby": true,
       "extraorigins:soul_spooked": true
     },
@@ -79,7 +77,7 @@
       "enabled": true,
       "origins:climbing": true,
       "origins:master_of_webs": true,
-      "origins:carnivore": true,
+      "origins:carnivore": false,
       "origins:fragile": true,
       "origins:arthropod": true
     },
@@ -109,7 +107,7 @@
       "origins:like_air": true,
       "origins:tailwind": true,
       "origins:lay_eggs": true,
-      "origins:vegetarian": true
+      "origins:vegetarian": false
     },
     "extraorigins:floran": {
       "enabled": true,
@@ -117,7 +115,7 @@
       "extraorigins:photosynthesis": true,
       "extraorigins:absorbing": true,
       "extraorigins:flammable": true,
-      "origins:vegetarian": true
+      "extraorigins:nectarivore": false
     },
     "extraorigins:truffle": {
       "enabled": true,
@@ -143,10 +141,10 @@
       "moborigins:undead": true,
       "moborigins:zombie_hunger": true,
       "moborigins:surface_slowness": true,
-      "origins:carnivore": true
+      "origins:carnivore": false
     },
     "even-more-origins:charged_sphagnum": {
-      "enabled": true,
+      "enabled": false,
       "even-more-origins:charged": true,
       "even-more-origins:explode_charged": true,
       "even-more-origins:green": true,
@@ -155,7 +153,7 @@
       "even-more-origins:weak_arms": true
     },
     "even-more-origins:sphagnum": {
-      "enabled": true,
+      "enabled": false,
       "even-more-origins:explode": true,
       "even-more-origins:green": true,
       "even-more-origins:less_hunger": true,
@@ -169,7 +167,7 @@
       "moborigins:queen_bee": true,
       "moborigins:small_bug": true,
       "moborigins:bee_wings": true,
-      "origins:vegetarian": true
+      "origins:vegetarian": false
     },
     "moborigins:guardian": {
       "enabled": true,
@@ -242,7 +240,7 @@
       "enabled": true,
       "even-more-origins:pack_animal": true,
       "even-more-origins:strong_legs": true,
-      "even-more-origins:vegetarian": true
+      "even-more-origins:vegetarian": false 
     },
     "moborigins:wolf": {
       "enabled": true,
@@ -251,7 +249,7 @@
       "moborigins:alpha_wolf": true,
       "moborigins:wolf_howl": true,
       "moborigins:wolf_pack": true,
-      "origins:carnivore": true
+      "origins:carnivore": false
     },
     "moborigins:fox": {
       "enabled": true,
