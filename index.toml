@@ -33,6 +33,10 @@ file = "config/betterstats.json"
 hash = "572c623b80564de30003cb21df050f95754ed4f480cb674aed35c7732be75763"
 
 [[files]]
+file = "config/bigendcitiesmodconfig.properties"
+hash = "0cc2b92f10a8f48a31ef54d659d690af9c55a3e0939db412876e03be99e3f3f7"
+
+[[files]]
 file = "config/botania-common.json5"
 hash = "c58462b9068f77994b4caf6b316f438542d39fe4050b810bd46b61e54f452268"
 
