@@ -1,10 +1,8 @@
 {
 	// default: NONE
 	show-last-eaten-tips: NONE
-	// Edit the expressions that are used for calculating the player stats after respawning.
-	// Expressions are mathematical terms with the following variables:
-	// 	hunger is the amount of hunger the player had when dying
-	// 	saturation is the amount of hunger the player had when dying
+	// default: false
+	enable-journal-command: false
 	respawn: {
 		// default: max(14, hunger)
 		// 	Must be a valid expression
@@ -17,12 +15,6 @@
 		// default: false
 		reset-carrot-mode: false
 	}
-	// Change the expressions used for calculating the various food properties.
-	// Expressions are mathematical terms with the following variables:
-	// 	timesEaten is the number of times the current food
-	// 	hungerValue is the game defined hunger value for the current item
-	// 	saturationValue is the saturation modifier defined for the current item
-	// 	consumeDuration is the time in ticks it takes the player to consume the current item
 	food: {
 		// default: hungerValue * power(0.7, timesEaten)
 		// 	Must be a valid expression
@@ -35,37 +27,27 @@
 		consume-duration: consumeDuration
 		// default: 20
 		// 	Must be greater or equal to 0
-		history-length: 20
+		history-length: 0
 	}
-	// The good ol' carrot style.
-	// Carrot style means, that you start with a certain amount of hearts and gain more by eating unique foods.
 	carrot: {
 		// default: false
 		enable: true
 		// default: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
-		health-formula: baseHealth + max(floor(log2(uniqueFoodsEaten/2)), 0)
+		health-formula: baseHealth + max(floor((20/600) * uniqueFoodsEaten), 0)
 		// default: -1
 		// 	Must be inclusively between -1 and 200
-		max-health: -1
+		max-health: 40
 		// default: true
 		uneaten-in-journal: true
 	}
-	// Settings concerning the items of this mod.
-	// 
-	// Install the mod "Polymer" if you want to use these items server-side only.
-	// You can generate the resource pack with the command "/polymer generate".
-	// 
-	// Otherwise the mod has to be installed on the client as well.
 	items: {
+		// default: false
+		use-polymer: false
 		// default: false
 		enable-paper-bag: false
 		// default: false
 		enable-lunch-box: false
 		// default: false
 		enable-picnic-basket: false
-		// default: false
-		use-polymer: false
 	}
-	// default: false
-	enable-journal-command: false
 }

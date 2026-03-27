@@ -1,0 +1,13 @@
+name = "DragonFightFix"
+filename = "DragonFightFix-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lpd0Hkwt/versions/2RNE3NpS/DragonFightFix-1.0.2.jar"
+hash-format = "sha512"
+hash = "21190681020211404d7b85de56a926f69ba7ac0ae3ab7b04130cc68a31d65d54acbc15bcd411dcd650e08e948eb385cfa1b0a4d529285938efebe390547397cd"
+
+[update]
+[update.modrinth]
+mod-id = "Lpd0Hkwt"
+version = "2RNE3NpS"

@@ -1,0 +1,13 @@
+name = "Seleni"
+filename = "seleni-0.2.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "1c23cb717ad14b20581b4527cffd983420d03c9edcd55f3984ce9c6433b796ef3873b2898df7bb15a4be78cf4f2d574e4f17139585c0bce0a43282d02481e3a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4763291
+project-id = 580813

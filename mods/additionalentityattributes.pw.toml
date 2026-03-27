@@ -1,0 +1,13 @@
+name = "Additional Entity Attributes"
+filename = "additionalentityattributes-1.7.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6oFu5eHi/versions/w03ppuef/additionalentityattributes-1.7.6%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "607830061de5ba25fdd1b7a99f0324ff70195493fa8ba85547ddd480134e7b20642fd5c66773e65ceff60d57968eb71b33978ceaf9d799df5de453ab055ddc5c"
+
+[update]
+[update.modrinth]
+mod-id = "6oFu5eHi"
+version = "w03ppuef"

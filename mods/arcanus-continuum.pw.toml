@@ -1,0 +1,13 @@
+name = "Arcanus: Continuum"
+filename = "Arcanus-Fabric-0.112.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnnRjucf/versions/JoxpCtqE/Arcanus-Fabric-0.112.10.jar"
+hash-format = "sha512"
+hash = "5c15a1e09ac85ca3e8a9717cc6bc1bb9a6c19e01cbe66e26e5ed8e2379f9da1a9065d63f81d649593e01841b3bc759b0222ec9c0633dde128a757b25667ef5ab"
+
+[update]
+[update.modrinth]
+mod-id = "UnnRjucf"
+version = "JoxpCtqE"

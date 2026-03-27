@@ -1,0 +1,71 @@
+{
+	"__comment1": "< v3.8",
+	"guiMobsFollowCursor": true,
+
+	"__comment2": ">= v3.8",
+	"client-guiMobsFollowCursor": true,
+	"client-trustAllServersBssNet": true,
+	"server-registerCommands": true,
+	"server-enableSAS": false,
+	"server-sasConfig":
+	{
+		"__comment1": "An array of blocks that'll be announced when mined for a player's first time",
+		"firstMinedBlocks":
+		[
+			"minecraft:diamond_ore",
+			"minecraft:deepslate_diamond_ore",
+			"minecraft:ancient_debris",
+			"minecraft:deepslate_coal_ore",
+			"minecraft:dragon_egg",
+			"minecraft:sculk_sensor",
+			"minecraft:reinforced_deepslate"
+		],
+		
+		"__comment2": "An array of items that'll be announced when crafted for a player's first time",
+		"firstCraftedItems":
+		[
+			"minecraft:wooden_pickaxe",
+			"minecraft:diamond_pickaxe",
+			"minecraft:beacon",
+			"minecraft:netherite_block",
+			"minecraft:ender_eye"
+		],
+		
+		"__comment3": "An array of entity types that'll be announced when killed by a player for that player's first time",
+		"firstKilledEntities":
+		[
+			"minecraft:zombie",
+			"minecraft:blaze",
+			"minecraft:enderman",
+			"minecraft:ender_dragon",
+			"minecraft:warden",
+			"minecraft:wither",
+			"minecraft:player"
+		],
+		
+		"__comment4": "An array of entity types that'll be announced when they kill a player for that player's first time",
+		"firstKilledByEntities":
+		[
+			"minecraft:ender_dragon",
+			"minecraft:warden",
+			"minecraft:wither",
+			"minecraft:player"
+		],
+		
+		"__comment5": "An array of 'general stats' aka 'custom stats' that'll be announced when a player achieves them for their first time.",
+		"firstCustomStats": [ "minecraft:deaths" ]
+	},
+
+	"__comment3": ">= v3.9.1",
+	"client-guiSmoothScroll": true,
+
+	"__comment5": ">= v3.11;",
+	"client-allowStatsSharing": true,
+
+	"__comment6": ">= v3.12",
+	"client-wideStatsPanel": false,
+	"client-centeredStatsPanel": false,
+
+	"__comment7": ">= v3.13.6",
+	"client-updateItemGroupsOnJoin": true
+}

@@ -1,13 +1,13 @@
 name = "Bewitchment"
-filename = "bewitchment-1.19-7.jar"
+filename = "bewitchment-1.20-10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d05eb503fd0872f2bf6574d0d4403962490b495"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AKbBSvuC/versions/JwA6Nkik/bewitchment-1.20-10.jar"
+hash-format = "sha512"
+hash = "85896761a0a2bd1a6e883c0e3dfdd86b2782f03704183ca10e99240d641cda5a4c637745a6500023720ac9a58a1a5116c34974ed029e9fdf3037b2a4326a41f3"
 
 [update]
-[update.curseforge]
-file-id = 4530660
-project-id = 394915
+[update.modrinth]
+mod-id = "AKbBSvuC"
+version = "JwA6Nkik"
