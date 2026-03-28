@@ -166,7 +166,7 @@ hash = "7323d935e67644b0b13fda65a59be54481b282c15b29cb5f41be000f62643727"
 
 [[files]]
 file = "config/welcomescreen.json5"
-hash = "189335e7791f693894bbc215003c73e9ae078d7a9cbb5d40b66d5b71b911be3f"
+hash = "dab27c4df142b2ef48f9a84092471b764459109abca0d098e7d36a90669c914e"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
@@ -226,7 +226,7 @@ hash = "b0f32b2413b1a656fb55f58ac6d2ecbc1340177c3f10979479db5bc77fd8abdd"
 
 [[files]]
 file = "kubejs/data/heyitsminecraftt/welcomescreen/custom_welcome_screen.json"
-hash = "cdafca5352f952cdc5e9a523c681909fb2526cf1a36554d93e5d59a339ba4ed6"
+hash = "8268d6e89ef7d138240dd84fbc66e457f1764e93b81861c79f281d93b31a9154"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"

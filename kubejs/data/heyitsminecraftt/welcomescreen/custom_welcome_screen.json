@@ -6,7 +6,7 @@
             0,
             8
         ],
-        "text": "Welcome to HeyItsMinecraftt!"
+        "text": ""
     },
     "text_1": {
         "center": true,
@@ -16,28 +16,8 @@
             5
         ],
         "text": [
-            "We are so happy to welcome everyone to version 3.0. There is tons to explore this update,",
-            "from verdant magic to ancient tomes, mysteries of the rainbow to mechanical marvels, this",
-            "pack has tons to offer! When you spawn you will be prompted to pick an Origin, be careful",
-            "as this will impact many gameplay systems in new ways. This update also adds a * light *",
-            "quest system (accessed in the top left of the inventory screen or by the questbook) where",
-            "you will be introduced to some of the new mods and features. Check back often for rewards!",
-            "We encourage you to build your main base within ~3000 blocks from spawn so that you can",
-            "visit your neighbors."
+            ""
         ]
-    },
-    "image_1": {
-        "center": true,
-        "object_center": true,
-        "pos": [
-            0,
-            -20
-        ],
-        "size": [
-            256,
-            256
-        ],
-        "id": "heyitsminecraftt:textures/pack.png"
     },
     "close": {
         "center": true,
