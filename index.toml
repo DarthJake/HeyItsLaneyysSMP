@@ -787,6 +787,11 @@ hash = "b5661c408bd1b00cdfff31a4e02133d09c6da01bc47bec347313be4f614b269b"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "5dbbebb1be98bfa055096c70fcbf668553b736ad2f9d20a5ff2d2cafc40968c1"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
 metafile = true
