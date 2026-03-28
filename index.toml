@@ -952,6 +952,11 @@ hash = "3293f00553c34eb166be92eabe786b4f67a2aacbabd07b32b4c7746e654c34e0"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "647356f01888fcef7108c655e12b3bff1189cd0dd4a1baa9487ae5c8c5961b36"
 metafile = true
