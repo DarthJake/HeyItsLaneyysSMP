@@ -85,6 +85,10 @@ file = "config/inventorysorter/config.json5"
 hash = "e35205904ff1350a20dd10368897e83e1219e64b5fc8b67197ca1702f695e328"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "e7ffb20827db1dacd5284c3f55fe0c45fc63992c8dba73afd7f1b836ffd0c8d4"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "d04c211508c073c0d066977805673d56e1f524b7a7a330655cdb1f1db7031e4b"
 
