@@ -327,11 +327,6 @@ hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "f060633ec58d2c5498c963d00de015e3946ee8a1bc1043f7bc4782ddcf44051f"
-metafile = true
-
-[[files]]
 file = "mods/better-end-cities-base.pw.toml"
 hash = "2a8f56e97267ea6856beff5bf1a76c196af4d2f0a0679eba714d707bce1d5c95"
 metafile = true
