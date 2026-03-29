@@ -12,10 +12,10 @@
       "name": "global",
       "is_disabled": false,
       "override_global_distance_from_world_center": false,
-      "min_distance_from_world_center": 300,
+      "min_distance_from_world_center": 150,
       "max_distance_from_world_center": 0,
       "override_global_flatness_check": false,
-      "enable_flatness_check": true,
+      "enable_flatness_check": false,
       "flatness_check_allow_non_solid_blocks": false
     }
   ],

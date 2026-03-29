@@ -154,7 +154,7 @@ hash = "5d72adc25c9dd696d488ca3ae8dc11cbc745f361e8433257420759aede26dd77"
 
 [[files]]
 file = "config/structurify.json"
-hash = "9fd84d494d58e56ce62cd772dc6361994226337ec78dd936205b06c54311ef58"
+hash = "f300513183bb0b7ae1a1199f6481568dc850634e79b5d99a0716ad92545abe5b"
 
 [[files]]
 file = "config/tide.json"
@@ -239,6 +239,10 @@ hash = "d20426f1eb2b23d4e970e561b6674de455327514840cfdb748035a26f72cd78e"
 [[files]]
 file = "kubejs/startup_scripts/heyitsquestbookk.js"
 hash = "ec44db92a5a12ba4b19262d012d383f58e47a2aa84a3efcac5e1049b3235997d"
+
+[[files]]
+file = "kubejs/startup_scripts/spawners.js"
+hash = "30b54a663d933dbaf3078a3ca4a75a1036f6a5042cd999d36da294ef3a76f475"
 
 [[files]]
 file = "mods/abridged.pw.toml"
