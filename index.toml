@@ -114,7 +114,7 @@ hash = "9ad5d53cbc0b93ce43a34ca121ad1ae0f2ab11e89eeac54a695147214e885dcf"
 
 [[files]]
 file = "config/mindfuldarkness-client.toml"
-hash = "1980077a5e3cc66781a8df8f4cb9beaea52fac29e428e1faadd5b6b2dbc00f65"
+hash = "ebb0b482b084e11322a7212fc13345a55cbe5aaa6c654b4a894f4a87b2188e92"
 
 [[files]]
 file = "config/origins_server.json"
