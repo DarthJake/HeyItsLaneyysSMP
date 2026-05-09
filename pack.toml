@@ -1,12 +1,12 @@
 name = "Hey Its Laneyys SMP"
 author = "DarthJake"
-version = "3.0.0"
+version = "3.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ccd2888a949368e15622b89550b2f038b24cd549c209e8c05b2af0f5a363ff76"
+hash = "2c80800d4db317a0e304ba44c24121b9ca5c97f20f9356409979636199e03113"
 
 [versions]
 fabric = "0.16.10"

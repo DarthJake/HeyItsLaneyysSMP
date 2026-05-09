@@ -1,6 +1,7 @@
 name = "FTB Quests (Fabric)"
 filename = "ftb-quests-fabric-2001.4.18.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha512"

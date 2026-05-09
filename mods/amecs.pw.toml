@@ -1,13 +1,13 @@
 name = "Amecs"
-filename = "amecs-bundle-1.6.2+mc1.20.jar"
+filename = "amecs-bundle-1.6.3+mc1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcLriA4v/versions/jtO1Ca6P/amecs-bundle-1.6.2%2Bmc1.20.jar"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/quQYWYit/amecs-bundle-1.6.3%2Bmc1.20.jar"
 hash-format = "sha512"
-hash = "baa3bcca308ac4feb631ae2f463f242f1d4ef12ecd28e29b767e0091c68bb3abf900fffce766dbd221df95f845e2524b4d41f8de5dc0bd7c99084917c4d2d028"
+hash = "ca8f8fbd8471e005f9e3900fd01c274d2e59de9761c2dcbc7cbfc4fd2e20ec05d6ed38140d66dfe1d78d4d5c645574444203b75ce13dd3bcebd8f0176743b2c9"
 
 [update]
 [update.modrinth]
 mod-id = "rcLriA4v"
-version = "jtO1Ca6P"
+version = "quQYWYit"
